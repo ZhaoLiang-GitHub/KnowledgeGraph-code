@@ -1,0 +1,110 @@
+抗微生物药物->抗生素->青霉素类->阿莫西林克拉维酸钾
+抗微生物药物->抗生素->青霉素类->哌拉西林钠他唑巴坦钠
+抗微生物药物->抗生素->青霉素类->青霉素 G 钠 Sodium Benzylpenicillin（B），青霉素钠，Sodium Penicillin G
+抗微生物药物->抗生素->青霉素类->苄星青霉素 Benzathine Benylpenicillin（B），长效青霉素，长效西林， Bicillin
+抗微生物药物->抗生素->青霉素类->苯唑西林钠 Oxacillin Sodium（B），新青霉素Ⅱ，苯唑青，新青Ⅱ
+抗微生物药物->抗生素->青霉素类->氨苄西林 Ampicillin（B），氨苄青霉素，安必仙
+抗微生物药物->抗生素->青霉素类->阿莫西林 Amoxicillin（B），羟氨苄青霉素，阿莫仙，AMOxIL
+抗微生物药物->抗生素->青霉素类->美洛西林钠 Mezlocillin Sodium（B），力扬
+抗微生物药物->抗生素->青霉素类->阿洛西林钠 Azlocillin Sodium（B），阿乐欣，ALOCIN
+抗微生物药物->抗生素->青霉素类->哌拉西林钠 Piperacillin Sodium（B），氧哌嗪青霉素
+抗微生物药物->抗生素->青霉素类->阿莫西林/双氯西林钠 Amoxicillin and Dicloxocillin Sodium，凯力达，CAREDY
+抗微生物药物->抗生素->青霉素类->氨苄西林钠/舒巴坦钠 Ampicillin Sodium~Sulbactam Sodium（B），施坦宁，STANYN
+抗微生物药物->抗生素->青霉素类->阿莫西林／克拉维酸钾 Amoxycillin/Clavulanate Potassium（B），力百汀针，安灭菌针，元欣针
+抗微生物药物->抗生素->青霉素类->哌拉西林钠／他唑巴坦钠 Piperacillin Sodium / Tazobactam Sodium （B），氧哌嗪青霉素钠/他唑巴坦钠，特治星，海他欣，康得力，联邦他
+抗微生物药物->抗生素->青霉素类->美洛西林钠/舒巴坦钠 Mezlocillin Sodium and Sulbactam Sodium，萨洛
+抗微生物药物->抗生素->头孢菌素类->头孢唑林
+抗微生物药物->抗生素->头孢菌素类->头孢呋辛
+抗微生物药物->抗生素->头孢菌素类->头孢曲松
+抗微生物药物->抗生素->头孢菌素类->头孢氨苄 Cefalexin（B），先锋霉素Ⅳ，头孢力新，KEFLEx
+抗微生物药物->抗生素->头孢菌素类->头孢唑啉钠 Cefazolin Sodium（B），先锋霉素Ⅴ
+抗微生物药物->抗生素->头孢菌素类->头孢羟氨苄 Cefadroxil（B），欧意颗粒
+抗微生物药物->抗生素->头孢菌素类->头孢克洛 Cefaclor（B），头孢氯氨苄，希克劳，CECLOR
+抗微生物药物->抗生素->头孢菌素类->头孢拉定 Cefradine（B），头孢环己烯，先锋霉素Ⅵ，泛捷复，Cephradine，VELOSEF
+抗微生物药物->抗生素->头孢菌素类->头孢呋辛酯 Cefuroxime Pivoxil（B），西力欣
+抗微生物药物->抗生素->头孢菌素类->头孢噻肟钠 Cefotaxime Sodium（B），凯福隆，CLAFORAN
+抗微生物药物->抗生素->头孢菌素类->头孢唑肟钠 Ceftizoxime，益保世灵，法洛西
+抗微生物药物->抗生素->头孢菌素类->头孢美唑钠 Cefmetazole Sodium（B），先锋美他醇，头孢美他唑，头孢美唑钠，CEFMETAZON，CMZ
+抗微生物药物->抗生素->头孢菌素类->头孢曲松钠 Ceftriaxone Sodium（B），头孢三嗪，罗氏芬，ROCEPHIN
+抗微生物药物->抗生素->头孢菌素类->头孢他啶 Ceftazidime（B），头孢羧甲噻肟，复达欣，FORTUM
+抗微生物药物->抗生素->头孢菌素类->头孢地尼 Cefdinir，世扶尼
+抗微生物药物->抗生素->头孢菌素类->头孢哌酮钠 Cefoperazone Sodium（B），CEFOBID
+抗微生物药物->抗生素->头孢菌素类->头孢吡肟 Cefepime （B），盐酸头孢吡肟，马斯平，MAxIPIME
+抗微生物药物->抗生素->头孢菌素类->头孢他美酯 Cefetamet Pivoxil，安塞他美
+抗微生物药物->抗生素->头孢菌素类->头孢妥仑匹酯 Cefditoren Pivoxil（B），美爱克，MEIACT
+抗微生物药物->抗生素->头孢菌素类->头孢替安 Cefotiam，佩罗欣
+抗微生物药物->抗生素->头孢菌素类->头孢丙烯 Cefprozil（B），施复捷，CEFZIL
+抗微生物药物->抗生素->头孢菌素类->氟氧头孢钠 Flomoxef Sodium，氟吗宁，FLUMARIN
+抗微生物药物->抗生素->头孢菌素类->拉氧头孢钠 Latamoxef Sodium (C)，噻吗灵，SHIOMARIN
+抗微生物药物->抗生素->头孢菌素类->头孢哌酮钠/舒巴坦钠 Cefoperazone Sodium~Sulbactam Sodium，舒普深，哌舒平，SULPERAZON
+抗微生物药物->抗生素->头孢菌素类->头孢克肟 Cefixime，世福素，安的克威，Cefspan
+抗微生物药物->抗生素->头孢菌素类->头孢米诺钠 CefminoxSodium，美士灵、恩必尔
+抗微生物药物->抗生素->头孢菌素类->头孢地嗪钠 Cefodizime Sodium，金汕秦, 金磬秦，高德
+抗微生物药物->抗生素->氨基糖苷类->阿米卡星 Amikacin (C/D)，丁胺卡那霉素，米英杰，AMIKIN
+抗微生物药物->抗生素->氨基糖苷类->庆大霉素 Gentamicin (C)，Gentamycin
+抗微生物药物->抗生素->氨基糖苷类->依替米星 Etimicin，爱大，悉能，爱益
+抗微生物药物->抗生素->氨基糖苷类->妥布霉素 Tobramycin (C/D)，妥布拉霉素，Tobracin，NEBCIN
+抗微生物药物->抗生素->四环素类->米诺环素 Minocycline (D)，二甲胺四环素，美满霉素，Minomycin，MINCIN，MINOCYN
+抗微生物药物->抗生素->四环素类->多西环素 Doxycycline (A)，强力霉素，脱氧土霉素，利尔诺
+抗微生物药物->抗生素->大环内酯类->克拉霉素
+抗微生物药物->抗生素->大环内酯类->罗红霉素 Roxithromycin，罗力得，RULID
+抗微生物药物->抗生素->大环内酯类->29，克拉仙，锋锐，诺邦，CLACID
+抗微生物药物->抗生素->大环内酯类->阿奇霉素 Azithromycin (B)，赛奇，洛奇，舒美特
+抗微生物药物->抗生素->其他->磷霉素
+抗微生物药物->抗生素->其它抗生素->万古霉素 Vancomycin (B)，稳可信，VANCOCINCP
+抗微生物药物->抗生素->其它抗生素->林可霉素 Lincomycin (B)，洁霉素
+抗微生物药物->抗生素->其它抗生素->克林霉素 Clindamycin，林荣针，先清针，容大片
+抗微生物药物->抗生素->其他 β内酰胺类->亚胺培南／西司他丁钠盐 Imipenem/Cilastatin Sodium (C)，泰能，TIENAM
+抗微生物药物->抗生素->其他 β内酰胺类->帕尼培南/倍他米隆 Panipenem/Betamipron，克倍宁，CARBENIN
+抗微生物药物->抗生素->其他 β内酰胺类->美罗培南 Meropenem，美平、倍能，PAINON
+抗微生物药物->抗生素->其他 β内酰胺类->氨曲南（B） Aztreonam，君刻单针
+抗微生物药物->合成抗菌药->磺胺类->磺胺嘧啶
+抗微生物药物->合成抗菌药->喹喏酮类->氯化钠
+抗微生物药物->合成抗菌药->喹喏酮类->氧氟沙星
+抗微生物药物->合成抗菌药->硝基咪唑类->替硝唑
+抗微生物药物->合成抗菌药->磺胺类->复方磺胺甲基异恶唑 Sulfamethoxazole~TMP (C)，复方新诺明，Sinomin Co.，SMZ Co.，SMZ~TMP
+抗微生物药物->合成抗菌药->磺胺类->柳氮磺吡啶 Sulfasalazine (B)，水杨酰偶氮磺胺吡啶，S alicylazosulfapyridine，S ASP，【 医保】 甲
+抗微生物药物->合成抗菌药->喹喏酮类->诺氟沙星 Norfloxacin (C)，氟哌酸，FPA
+抗微生物药物->合成抗菌药->喹喏酮类->左氧氟沙星 Levofloxacin (C)，可乐必妥，左克，恒奥，来立信，CRAVIT，LVFx，【 医保】 乙
+抗微生物药物->合成抗菌药->喹喏酮类->环丙沙星 Ciprofloxacin (C)，环丙氟哌酸，西普乐，悉复欢，CIFRAN，CIPRO，【 医保】 甲
+抗微生物药物->合成抗菌药->喹喏酮类->司帕沙星 Sparfloxacin (C)，SPFx
+抗微生物药物->合成抗菌药->喹喏酮类->氟罗沙星 Fleroxacin，济民福欣
+抗微生物药物->合成抗菌药->喹喏酮类->莫西沙星 Moxifloxacin (C)，拜复乐，AVELOx
+抗微生物药物->合成抗菌药->硝基呋喃类->呋喃妥因 Nitrofurantoin (B)，呋喃坦啶，硝呋妥因，Furadantin
+抗微生物药物->合成抗菌药->硝基呋喃类->呋喃唑酮 Furazolidone (C)，痢特灵，Nifurazolidone
+抗微生物药物->合成抗菌药->硝咪唑类->甲硝唑 Metronidazole (B)，甲硝咪唑，灭滴灵，Flagyl
+抗微生物药物->合成抗菌药->硝咪唑类->奥硝唑 Omidazole，圣诺安针，普司立针，齐克胶囊
+抗微生物药物->抗结核、麻风病药药->链霉素
+抗微生物药物->抗结核、麻风病药药->对氨基水杨酸钠
+抗微生物药物->抗结核、麻风病药药->水杨酸
+抗微生物药物->抗结核、麻风病药药->耐多药肺结核用药
+抗微生物药物->抗结核、麻风病药->氨苯砜
+抗微生物药物->抗真菌药->两性霉素B
+抗微生物药物->抗真菌药->卡泊芬净
+抗微生物药物->其他抗菌药->小檗碱（黄连素）
+抗微生物药物->抗病毒药->奥司他韦
+抗微生物药物->抗病毒药->恩替卡韦
+抗微生物药物->抗病毒药->替诺福韦二吡呋酯
+抗微生物药物->抗病毒药->重组人干扰素
+抗微生物药物->抗病毒药->艾滋病用药
+抗微生物药物->抗结核、麻风病药->异烟肼 Isoniazid (C)，雷米封，INH，Rimifon
+抗微生物药物->抗结核、麻风病药->利福平 Rifampicin (C)，甲哌利福霉素，Rifampin，RFP
+抗微生物药物->抗结核、麻风病药->乙胺丁醇 Ethambutol (B)，EMB
+抗微生物药物->抗结核、麻风病药->吡嗪酰胺 Pyrazinamide (C)，PZA，Tebrazid
+抗微生物药物->抗真菌药->两性霉素Ｂ Amphotericin B (B)，Fungizone
+抗微生物药物->抗真菌药->氟康唑 Fluconazole (C)，大扶康，三维康，DIFLUCAN
+抗微生物药物->抗真菌药->制霉菌素 Nystatin (C)，制霉素，Nysfungin
+抗微生物药物->抗真菌药->咪康唑 Miconazole (C)，双氯苯咪唑，达克宁，DAKTARIN
+抗微生物药物->抗真菌药->伊曲康唑 Itraconazole (C)，依他康唑，斯皮仁诺，SPORANOx
+抗微生物药物->抗真菌药->特比萘芬 Terbinafine (B)，兰美抒，LAMISIL
+抗微生物药物->抗病毒药->阿昔洛韦 Aciclovir (B)，无环鸟苷，甘泰，Acyclovir，ZOVIRAx，【 医保】 甲（片剂）、
+抗微生物药物->抗病毒药->更昔洛韦 Ganciclovir (C)，丽科伟
+抗微生物药物->抗病毒药->万乃洛韦 Valaciclovir (B)，丽珠威，伐昔洛韦
+抗微生物药物->抗病毒药->拉米夫定 Lamivudine (C)，贺普丁，HEPTODIN
+抗微生物药物->抗病毒药->聚肌苷酸~聚胞苷酸 Polyinosinic Acid~Polycytidylic Acid，聚肌胞，Poly I:C
+抗微生物药物->抗病毒药->利巴韦林 Ribavirin (x)，病毒唑，新博林、奥佳、奇力青
+抗微生物药物->抗病毒药->磷酸奥司他韦 Oseltamivir Phosphate Capsules，达菲，Tamiflu
+抗微生物药物->植物成份抗感染药->小檗碱 Berberine，黄连素
+抗微生物药物->植物成份抗感染药->鱼腥草素钠 Sodium Houttuybonate，癸酰乙醛亚硫酸氢钠，Decanoyl Acetaldehyde Sodium Sulfite
+抗微生物药物->植物成份抗感染药->新鱼腥草素钠，佰邦力威
+抗微生物药物->植物成份抗感染药->大蒜素 Allitride Enteric~coated Capsules，恒松
