@@ -1,0 +1,931 @@
+抗微生物药物->抗生素->青霉素类->青霉素 G 钠 Sodium Benzylpenicillin（B），青霉素钠，Sodium Penicillin G
+抗微生物药物->抗生素->青霉素类->苄星青霉素 Benzathine Benylpenicillin（B），长效青霉素，长效西林， Bicillin
+抗微生物药物->抗生素->青霉素类->苯唑西林钠 Oxacillin Sodium（B），新青霉素Ⅱ，苯唑青，新青Ⅱ
+抗微生物药物->抗生素->青霉素类->氨苄西林 Ampicillin（B），氨苄青霉素，安必仙
+抗微生物药物->抗生素->青霉素类->阿莫西林 Amoxicillin（B），羟氨苄青霉素，阿莫仙，AMOxIL
+抗微生物药物->抗生素->青霉素类->美洛西林钠 Mezlocillin Sodium（B），力扬
+抗微生物药物->抗生素->青霉素类->阿洛西林钠 Azlocillin Sodium（B），阿乐欣，ALOCIN
+抗微生物药物->抗生素->青霉素类->哌拉西林钠 Piperacillin Sodium（B），氧哌嗪青霉素
+抗微生物药物->抗生素->青霉素类->阿莫西林/双氯西林钠 Amoxicillin and Dicloxocillin Sodium，凯力达，CAREDY
+抗微生物药物->抗生素->青霉素类->氨苄西林钠/舒巴坦钠 Ampicillin Sodium~Sulbactam Sodium（B），施坦宁，STANYN
+抗微生物药物->抗生素->青霉素类->阿莫西林／克拉维酸钾 Amoxycillin/Clavulanate Potassium（B），力百汀针，安灭菌针，元欣针
+抗微生物药物->抗生素->青霉素类->哌拉西林钠／他唑巴坦钠 Piperacillin Sodium / Tazobactam Sodium （B），氧哌嗪青霉素钠/他唑巴坦钠，特治星，海他欣，康得力，联邦他
+抗微生物药物->抗生素->青霉素类->美洛西林钠/舒巴坦钠 Mezlocillin Sodium and Sulbactam Sodium，萨洛
+抗微生物药物->抗生素->头孢菌素类->头孢氨苄 Cefalexin（B），先锋霉素Ⅳ，头孢力新，KEFLEx
+抗微生物药物->抗生素->头孢菌素类->头孢唑啉钠 Cefazolin Sodium（B），先锋霉素Ⅴ
+抗微生物药物->抗生素->头孢菌素类->头孢羟氨苄 Cefadroxil（B），欧意颗粒
+抗微生物药物->抗生素->头孢菌素类->头孢克洛 Cefaclor（B），头孢氯氨苄，希克劳，CECLOR
+抗微生物药物->抗生素->头孢菌素类->头孢拉定 Cefradine（B），头孢环己烯，先锋霉素Ⅵ，泛捷复，Cephradine，VELOSEF
+抗微生物药物->抗生素->头孢菌素类->头孢呋辛酯 Cefuroxime Pivoxil（B），西力欣
+抗微生物药物->抗生素->头孢菌素类->头孢噻肟钠 Cefotaxime Sodium（B），凯福隆，CLAFORAN
+抗微生物药物->抗生素->头孢菌素类->头孢唑肟钠 Ceftizoxime，益保世灵，法洛西
+抗微生物药物->抗生素->头孢菌素类->头孢美唑钠 Cefmetazole Sodium（B），先锋美他醇，头孢美他唑，头孢美唑钠，CEFMETAZON，CMZ
+抗微生物药物->抗生素->头孢菌素类->头孢曲松钠 Ceftriaxone Sodium（B），头孢三嗪，罗氏芬，ROCEPHIN
+抗微生物药物->抗生素->头孢菌素类->头孢他啶 Ceftazidime（B），头孢羧甲噻肟，复达欣，FORTUM
+抗微生物药物->抗生素->头孢菌素类->头孢地尼 Cefdinir，世扶尼
+抗微生物药物->抗生素->头孢菌素类->头孢哌酮钠 Cefoperazone Sodium（B），CEFOBID
+抗微生物药物->抗生素->头孢菌素类->头孢吡肟 Cefepime （B），盐酸头孢吡肟，马斯平，MAxIPIME
+抗微生物药物->抗生素->头孢菌素类->头孢他美酯 Cefetamet Pivoxil，安塞他美
+抗微生物药物->抗生素->头孢菌素类->头孢妥仑匹酯 Cefditoren Pivoxil（B），美爱克，MEIACT
+抗微生物药物->抗生素->头孢菌素类->头孢替安 Cefotiam，佩罗欣
+抗微生物药物->抗生素->头孢菌素类->头孢丙烯 Cefprozil（B），施复捷，CEFZIL
+抗微生物药物->抗生素->头孢菌素类->氟氧头孢钠 Flomoxef Sodium，氟吗宁，FLUMARIN
+抗微生物药物->抗生素->头孢菌素类->拉氧头孢钠 Latamoxef Sodium (C)，噻吗灵，SHIOMARIN
+抗微生物药物->抗生素->头孢菌素类->头孢哌酮钠/舒巴坦钠 Cefoperazone Sodium~Sulbactam Sodium，舒普深，哌舒平，SULPERAZON
+抗微生物药物->抗生素->头孢菌素类->头孢克肟 Cefixime，世福素，安的克威，Cefspan
+抗微生物药物->抗生素->头孢菌素类->头孢米诺钠 CefminoxSodium，美士灵、恩必尔
+抗微生物药物->抗生素->头孢菌素类->头孢地嗪钠 Cefodizime Sodium，金汕秦, 金磬秦，高德
+抗微生物药物->抗生素->其他 β内酰胺类->亚胺培南／西司他丁钠盐 Imipenem/Cilastatin Sodium (C)，泰能，TIENAM
+抗微生物药物->抗生素->其他 β内酰胺类->帕尼培南/倍他米隆 Panipenem/Betamipron，克倍宁，CARBENIN
+抗微生物药物->抗生素->其他 β内酰胺类->美罗培南 Meropenem，美平、倍能，PAINON
+抗微生物药物->抗生素->其他 β内酰胺类->氨曲南（B） Aztreonam，君刻单针
+抗微生物药物->抗生素->氨基糖苷类->阿米卡星 Amikacin (C/D)，丁胺卡那霉素，米英杰，AMIKIN
+抗微生物药物->抗生素->氨基糖苷类->庆大霉素 Gentamicin (C)，Gentamycin
+抗微生物药物->抗生素->氨基糖苷类->依替米星 Etimicin，爱大，悉能，爱益
+抗微生物药物->抗生素->氨基糖苷类->妥布霉素 Tobramycin (C/D)，妥布拉霉素，Tobracin，NEBCIN
+抗微生物药物->抗生素->四环素类->米诺环素 Minocycline (D)，二甲胺四环素，美满霉素，Minomycin，MINCIN，MINOCYN
+抗微生物药物->抗生素->四环素类->多西环素 Doxycycline (A)，强力霉素，脱氧土霉素，利尔诺
+抗微生物药物->抗生素->酰胺醇类->氯霉素 Chloramphenicol (C)，CHLOROMYCETIN
+抗微生物药物->抗生素->大环内酯类->罗红霉素 Roxithromycin，罗力得，RULID
+抗微生物药物->抗生素->大环内酯类->29，克拉仙，锋锐，诺邦，CLACID
+抗微生物药物->抗生素->大环内酯类->阿奇霉素 Azithromycin (B)，赛奇，洛奇，舒美特
+抗微生物药物->抗生素->其它抗生素->万古霉素 Vancomycin (B)，稳可信，VANCOCINCP
+抗微生物药物->抗生素->其它抗生素->林可霉素 Lincomycin (B)，洁霉素
+抗微生物药物->抗生素->其它抗生素->克林霉素 Clindamycin，林荣针，先清针，容大片
+抗微生物药物->合成抗菌药->磺胺类->复方磺胺甲基异恶唑 Sulfamethoxazole~TMP (C)，复方新诺明，Sinomin Co.，SMZ Co.，SMZ~TMP
+抗微生物药物->合成抗菌药->磺胺类->柳氮磺吡啶 Sulfasalazine (B)，水杨酰偶氮磺胺吡啶，S alicylazosulfapyridine，S ASP，【 医保】 甲
+抗微生物药物->合成抗菌药->喹喏酮类->诺氟沙星 Norfloxacin (C)，氟哌酸，FPA
+抗微生物药物->合成抗菌药->喹喏酮类->左氧氟沙星 Levofloxacin (C)，可乐必妥，左克，恒奥，来立信，CRAVIT，LVFx，【 医保】 乙
+抗微生物药物->合成抗菌药->喹喏酮类->环丙沙星 Ciprofloxacin (C)，环丙氟哌酸，西普乐，悉复欢，CIFRAN，CIPRO，【 医保】 甲
+抗微生物药物->合成抗菌药->喹喏酮类->司帕沙星 Sparfloxacin (C)，SPFx
+抗微生物药物->合成抗菌药->喹喏酮类->氟罗沙星 Fleroxacin，济民福欣
+抗微生物药物->合成抗菌药->喹喏酮类->莫西沙星 Moxifloxacin (C)，拜复乐，AVELOx
+抗微生物药物->合成抗菌药->硝基呋喃类->呋喃妥因 Nitrofurantoin (B)，呋喃坦啶，硝呋妥因，Furadantin
+抗微生物药物->合成抗菌药->硝基呋喃类->呋喃唑酮 Furazolidone (C)，痢特灵，Nifurazolidone
+抗微生物药物->合成抗菌药->硝咪唑类->甲硝唑 Metronidazole (B)，甲硝咪唑，灭滴灵，Flagyl
+抗微生物药物->合成抗菌药->硝咪唑类->奥硝唑 Omidazole，圣诺安针，普司立针，齐克胶囊
+抗微生物药物->植物成份抗感染药->小檗碱 Berberine，黄连素
+抗微生物药物->植物成份抗感染药->鱼腥草素钠 Sodium Houttuybonate，癸酰乙醛亚硫酸氢钠，Decanoyl Acetaldehyde Sodium Sulfite
+抗微生物药物->植物成份抗感染药->新鱼腥草素钠，佰邦力威
+抗微生物药物->植物成份抗感染药->大蒜素 Allitride Enteric~coated Capsules，恒松
+抗微生物药物->抗结核、麻风病药->异烟肼 Isoniazid (C)，雷米封，INH，Rimifon
+抗微生物药物->抗结核、麻风病药->利福平 Rifampicin (C)，甲哌利福霉素，Rifampin，RFP
+抗微生物药物->抗结核、麻风病药->乙胺丁醇 Ethambutol (B)，EMB
+抗微生物药物->抗结核、麻风病药->吡嗪酰胺 Pyrazinamide (C)，PZA，Tebrazid
+抗微生物药物->抗真菌药->两性霉素Ｂ Amphotericin B (B)，Fungizone
+抗微生物药物->抗真菌药->氟康唑 Fluconazole (C)，大扶康，三维康，DIFLUCAN
+抗微生物药物->抗真菌药->制霉菌素 Nystatin (C)，制霉素，Nysfungin
+抗微生物药物->抗真菌药->咪康唑 Miconazole (C)，双氯苯咪唑，达克宁，DAKTARIN
+抗微生物药物->抗真菌药->伊曲康唑 Itraconazole (C)，依他康唑，斯皮仁诺，SPORANOx
+抗微生物药物->抗真菌药->特比萘芬 Terbinafine (B)，兰美抒，LAMISIL
+抗微生物药物->抗病毒药->阿昔洛韦 Aciclovir (B)，无环鸟苷，甘泰，Acyclovir，ZOVIRAx，【 医保】 甲（片剂）、
+抗微生物药物->抗病毒药->更昔洛韦 Ganciclovir (C)，丽科伟
+抗微生物药物->抗病毒药->万乃洛韦 Valaciclovir (B)，丽珠威，伐昔洛韦
+抗微生物药物->抗病毒药->拉米夫定 Lamivudine (C)，贺普丁，HEPTODIN
+抗微生物药物->抗病毒药->聚肌苷酸~聚胞苷酸 Polyinosinic Acid~Polycytidylic Acid，聚肌胞，Poly I:C
+抗微生物药物->抗病毒药->利巴韦林 Ribavirin (x)，病毒唑，新博林、奥佳、奇力青
+抗微生物药物->抗病毒药->磷酸奥司他韦 Oseltamivir Phosphate Capsules，达菲，Tamiflu
+抗寄生虫病药物->抗肠虫药->左旋咪唑 Levamisole，左咪唑
+抗寄生虫病药物->抗肠虫药->甲苯咪唑 Mebendazole（C），甲苯达唑，安乐士
+抗寄生虫病药物->抗肠虫药->阿苯达唑 Albendazole（C），丙硫苯咪唑，肠虫清
+作用于心血管系统的药物->防治心绞痛药->硝酸甘油 Nitroglycerin（C），三硝酸甘油, 楚天舒心贴，Nitroglycerol
+作用于心血管系统的药物->防治心绞痛药->硝酸异山梨酯 Isosorbide Dinitrate（C），消心痛，异舒吉，爱倍，培欣，Isordil，Sorbitrate，Nitrosorbid，
+作用于心血管系统的药物->防治心绞痛药->单硝酸异山梨酯 Isosorbide Mononitrate（C），鲁南欣康，ISMO
+作用于心血管系统的药物->防治心绞痛药->果糖二磷酸钠 Fructose Diphosphate，佛迪，瑞安吉，FDP
+作用于心血管系统的药物->防治心绞痛药->硝苯地平 Nifedipine（C），硝苯吡啶，心痛定，伲福达，纳欣同，拜新同，ADALAT GITS
+作用于心血管系统的药物->防治心绞痛药->双嘧达莫 Dipyridamole（B），潘生丁，Persantin
+作用于心血管系统的药物->防治心绞痛药->地尔硫 Diltiazem（C），恬尔新，盒心爽，盒贝爽，Dilthiazem，HERBESSER，Dilzem，
+作用于心血管系统的药物->防治心绞痛药->环磷腺苷葡胺 Meglumine Adenosine Cyclosphosp，心先安，扶信，cAMP
+作用于心血管系统的药物->防治心绞痛药->曲美他嗪 Trimetazidine，万爽力，VASOREL
+作用于心血管系统的药物->防治心绞痛药->克朗宁，调微Ⅰ号，冠脉苏
+作用于心血管系统的药物->防治心绞痛药->阿魏酸钠 Sodium Ferulate，心血康注射液
+作用于心血管系统的药物->防治心绞痛药->葛根素 Puerarin，布瑞宁，辛疏针，【 医保】 乙
+作用于心血管系统的药物->防治心绞痛药->阿司匹林 Asprin (C/D)，拜阿司匹灵，阿司匹林肠溶片，乙酰水杨酸，伯基，巴米尔
+作用于心血管系统的药物->防治心绞痛药->左~卡尼汀 Levocarnitine（B），可益能，雷卡
+作用于心血管系统的药物->抗心律失常药->利多卡因 Lidocaine (B?C)，赛罗卡因，xylocaine
+作用于心血管系统的药物->抗心律失常药->美西律 Mexiletine (C)，脉律定，MExITIL
+作用于心血管系统的药物->抗心律失常药->莫雷西嗪 Moracizine（B），乙吗噻嗪
+作用于心血管系统的药物->抗心律失常药->苯妥英钠 Phenytoin Sodium (D)，大仑丁，Dilantin
+作用于心血管系统的药物->抗心律失常药->普罗帕酮 Propafenone (C)，心律平，悦复隆，RYTMONORM
+作用于心血管系统的药物->抗心律失常药->艾司洛尔 Esmolol (C)，爱络
+作用于心血管系统的药物->抗心律失常药->比索洛尔 Bisoprolol (C)，康心，康可，CONCOR
+作用于心血管系统的药物->抗心律失常药->普萘洛尔 Propranolol (C?D)，心得安，INDERAL
+作用于心血管系统的药物->抗心律失常药->阿替洛尔 Atenolol (D)，氨酰心安
+作用于心血管系统的药物->抗心律失常药->美托洛尔 Metoprolol (C?D)，倍他乐克，美多心安，BETALOC
+作用于心血管系统的药物->抗心律失常药->索他洛尔 Sotalol (B)，施太可，SOTACOR
+作用于心血管系统的药物->抗心律失常药->阿罗洛尔 Arotinolol，阿尔马尔片
+作用于心血管系统的药物->抗心律失常药->胺碘酮 Amiodarone (D)，乙胺碘呋酮，可达龙，CORDARONE
+作用于心血管系统的药物->抗心律失常药->维拉帕米 Verapamil (C)，异搏定，盖衡，ISOPTIN
+作用于心血管系统的药物->抗心律失常药->门冬氨酸钾镁 Potassium Magnesium Aspartate，脉安定，圣益格，益乐，潘南金，PANANGIN
+作用于心血管系统的药物->抗心律失常药->59，复方非那根片，PLC，【 医保】 丙
+作用于心血管系统的药物->抗高血压药->可乐定 Clonidine (C)，氯压定，110 降压片
+作用于心血管系统的药物->抗高血压药->特拉唑嗪 Terazosin (C)，高特灵，施艾特，HYTRIN
+作用于心血管系统的药物->抗高血压药->乌拉地尔 Urapidil，亚宁定，利喜定，EBRANTIL
+作用于心血管系统的药物->抗高血压药->地巴唑 Dibazol，Bendazol
+作用于心血管系统的药物->抗高血压药->复方降压片 Compound Reserpine，复降片
+作用于心血管系统的药物->抗高血压药->拉西地平 Lacidipine，乐息平，LACIDIL
+作用于心血管系统的药物->抗高血压药->氨氯地平 Amlodipine (C)，络活喜，压氏达，平能，NORVASC
+作用于心血管系统的药物->抗高血压药->非洛地平 Felodipine (C)，波依定，可立平，PLENDIL
+作用于心血管系统的药物->抗高血压药->吲哒帕胺 Indapamide (B)，纳催离
+作用于心血管系统的药物->抗高血压药->卡托普利 Captopril (C)，巯甲丙脯酸，开博通，CAPOTEN
+作用于心血管系统的药物->抗高血压药->依那普利 Enalapril (C)，必利那，RENITEC
+作用于心血管系统的药物->抗高血压药->贝那普利 Benazepril (C)，苯那普利，洛汀新，LOTENSIN
+作用于心血管系统的药物->抗高血压药->培哚普利 Perindopril (C)，雅施达，ACERTIL
+作用于心血管系统的药物->抗高血压药->西拉普利 Cilazapril，一平苏，INHIBACE
+作用于心血管系统的药物->抗高血压药->雷米普利 Ramipril (C)，瑞泰，TRITACE
+作用于心血管系统的药物->抗高血压药->氯沙坦钾 Losartan Potassium (C)，洛沙坦，科素亚，COZAAR
+作用于心血管系统的药物->抗高血压药->厄贝沙坦 Irbesartan (C)，安博维，伊泰青
+作用于心血管系统的药物->抗高血压药->厄贝沙坦/氢氯噻嗪 Irbesartan/Hydrochlorothiazide，安博诺，COAPROVEL
+作用于心血管系统的药物->抗高血压药->氯沙坦钾/氢氯噻嗪 Losartan K/Hydrochlorothiazide，海捷亚，HYZAAR
+作用于心血管系统的药物->抗高血压药->缬沙坦 Valsartan (C)，代文，怡方，DIOVAN
+作用于心血管系统的药物->抗高血压药->替米沙坦 Ticarcillin，美卡素，亚邦恒贝
+作用于心血管系统的药物->抗高血压药->卡维地络 Carvedilol (C)，络德，达利全，DILATREND
+作用于心血管系统的药物->抗高血压药->复方芦丁 Rutin Co.，复方路丁，复方路通
+作用于心血管系统的药物->抗高血压药->多沙唑嗪 Doxazosin Mesylate，可多华，必亚欣，Cardura
+作用于心血管系统的药物->抗心力衰竭药->地高辛 Digoxin (C)，狄戈辛，Lanoxin
+作用于心血管系统的药物->抗心力衰竭药->去乙酰毛花苷 Deslanoside (C)，西地兰Ｄ，Cedilanid D
+作用于心血管系统的药物->抗心力衰竭药->毒毛花苷Ｋ Strophanthin K，毒毛旋花子苷Ｋ，Strofan~K
+作用于心血管系统的药物->抗心力衰竭药->米力农 Milrinone (C)，鲁南力康
+作用于心血管系统的药物->抗休克的血管活性药->去氧肾上腺素 Phenylephrine (C)，苯肾上腺素，NEO~SYNEPHRINE ，【 医保】 乙
+作用于心血管系统的药物->抗休克的血管活性药->肾上腺素 Adrenaline (C)，副肾素，Epinephrine
+作用于心血管系统的药物->抗休克的血管活性药->多巴胺 Dopamine (C)，3~羟酪胺
+作用于心血管系统的药物->抗休克的血管活性药->多巴酚丁胺 Dobutamine (B)，奥万源针
+作用于心血管系统的药物->抗休克的血管活性药->间羟胺 Metaraminol (C)，阿拉明，ARAMINE
+作用于心血管系统的药物->抗休克的血管活性药->米多君 Midodrine (D)，管通，Guyron
+作用于心血管系统的药物->脑血管及周围血管扩张药->酚妥拉明 Phentolamine (C)，立其丁，REGITIN
+作用于心血管系统的药物->脑血管及周围血管扩张药->妥拉苏林 Tolazoline (C)，苄唑啉，Benzazoline
+作用于心血管系统的药物->脑血管及周围血管扩张药->酚苄明 Phenoxybenzamine (C)，酚苄胺，竹林胺
+作用于心血管系统的药物->脑血管及周围血管扩张药->罂粟碱 Papaverine，怕怕非林
+作用于心血管系统的药物->脑血管及周围血管扩张药->丁咯地尔 Buflomedil，意速，斯健，清健
+作用于心血管系统的药物->脑血管及周围血管扩张药->氟桂利嗪 Flunarizine，西比灵，SIBELIUM
+作用于心血管系统的药物->脑血管及周围血管扩张药->川芎嗪 Ligustrazine，赛洛欣
+作用于心血管系统的药物->脑血管及周围血管扩张药->银杏达莫，杏丁注射液，亿新威
+作用于心血管系统的药物->脑血管及周围血管扩张药->尼莫地平 Nimodipine (C)，尼莫同，尼立苏，NIMOTOP
+作用于心血管系统的药物->脑血管及周围血管扩张药->尼卡地平 Nicardipine，佩尔
+作用于心血管系统的药物->脑血管及周围血管扩张药->胰激肽原酶 Pancreatic Kininogenase，胰激肽释放酶，血管舒缓素，怡开片，Kallikerin，Kallidinogenase
+作用于心血管系统的药物->脑血管及周围血管扩张药->倍他司丁 Betahistine，培他啶，甲胺乙吡啶，敏使朗，MERISLON
+作用于心血管系统的药物->脑血管及周围血管扩张药->地芬尼多 Difenidol，二苯哌丁醇，眩晕停
+作用于心血管系统的药物->脑血管及周围血管扩张药->二氢麦角碱 Dihydroergotoxine，培磊能，依舒佳林，PERENAN，ISCHElIUM
+作用于心血管系统的药物->脑血管及周围血管扩张药->己酮可可碱 Pentoxifylline (C)，己酮可可豆碱，瑞潘通，TRENTAL
+作用于心血管系统的药物->脑血管及周围血管扩张药->羟苯磺酸钙 Calcium Dobesilate，多贝斯
+作用于心血管系统的药物->脑血管及周围血管扩张药->桂哌齐特 Cinepazide Maleate，克林澳针
+作用于心血管系统的药物->脑血管及周围血管扩张药->脑苷肌肽 Cattle Encephalon Glycoside and Ignotin，全威凯洛欣
+作用于心血管系统的药物->脑血管及周围血管扩张药->长春西汀 Vinpocetine，枢霖
+作用于心血管系统的药物->脑血管及周围血管扩张药->依达拉奉 Edaravone，必存
+作用于心血管系统的药物->脑血管及周围血管扩张药->法舒地尔 Fasudil，川威注射液
+作用于心血管系统的药物->脑血管及周围血管扩张药->他达拉非 Tadalafil，希爱力
+作用于心血管系统的药物->脑血管及周围血管扩张药->伐地那非 Vardnafil，艾力达
+作用于心血管系统的药物->脑血管及周围血管扩张药->西地那非 Sildefafil，万艾可，VIAGRA
+作用于心血管系统的药物->调节血脂药及抗动脉粥样硬化药->非诺贝特 Fenofibrate (C)，力平之，利必非，FENOBRATE，LIPANTHYL
+作用于心血管系统的药物->调节血脂药及抗动脉粥样硬化药->苯扎贝特 Bezafibrate，阿贝他
+作用于心血管系统的药物->调节血脂药及抗动脉粥样硬化药->辛伐他汀 Simvastatin (x)，舒降之，京必舒新，ZOCOR
+作用于心血管系统的药物->调节血脂药及抗动脉粥样硬化药->普伐他汀 Pravastatin (x)，普拉固，美百乐镇，PRAVACHOL，MEVALOTIN
+作用于心血管系统的药物->调节血脂药及抗动脉粥样硬化药->氟伐他汀 Fluvastatin (x)，来适可，LESCOL
+作用于心血管系统的药物->调节血脂药及抗动脉粥样硬化药->阿托伐他汀钙 Atrovastatin Calcium (x)，立普妥，阿乐， LIPITOR
+作用于血液系统的药物->促凝血及止血药->维生素Ｋ1 Vitamin K1 (C)，Vit K1，Phytomenadione
+作用于血液系统的药物->促凝血及止血药->维生素Ｋ3 Vitamin K3 (C)，亚硫酸氢钠甲萘醌，Vit K3，Menadione Sodium Bisulfite
+作用于血液系统的药物->促凝血及止血药->维生素Ｋ4 Vitamin K4 (C)，乙酰甲萘醌，甲萘氢醌，Vit K4，Acetomenaphthone，【 医保】 乙
+作用于血液系统的药物->促凝血及止血药->氨基己酸 Aminocaproic Acid (C)，6~氨基己酸，EACA
+作用于血液系统的药物->促凝血及止血药->氨甲苯酸 P~Aminomethylbenzoic Acid，止血芳酸，PAMBA
+作用于血液系统的药物->促凝血及止血药->氨甲环酸 Tranexamic Acid (B)，速宁，血速宁，荷莫塞，捷宁，贝瑞宁，DONTILYSE
+作用于血液系统的药物->促凝血及止血药->酚磺乙胺 Etamsylate，止血敏，止血定，Dicynone
+作用于血液系统的药物->促凝血及止血药->安络血 Adrenobazone，肾上腺色腙
+作用于血液系统的药物->促凝血及止血药->冻干人凝血因子 Ⅷ Antihemophilic Factor，康斯平，Hemoraas，Factor Ⅷ，AHF
+作用于血液系统的药物->促凝血及止血药->人纤维蛋白原 Human Fibrinogen，法布莱士，冻干人纤维蛋白原
+作用于血液系统的药物->促凝血及止血药->抑肽酶 Aprotinin (B)，赫泰林，Hetailin
+作用于血液系统的药物->促凝血及止血药->立芷雪 Reptilase，巴曲酶，Batroxobin
+作用于血液系统的药物->促凝血及止血药->89，巴曲亭
+作用于血液系统的药物->抗凝溶栓及抗血小板药->肝素钠 Heparin Sodium (C)，肝素，Heparin
+作用于血液系统的药物->抗凝溶栓及抗血小板药->低分子肝素钠 Low Molecular Weight Heparin Sodium，克赛，依 诺肝素钠，达 肝素钠，法 安明，F ragmin，D alteparin Sodium，
+作用于血液系统的药物->抗凝溶栓及抗血小板药->华法林 Warfarin (D)，苄丙酮香豆素钠
+作用于血液系统的药物->抗凝溶栓及抗血小板药->尿激酶 Urokinase (B)，洛欣
+作用于血液系统的药物->抗凝溶栓及抗血小板药->巴曲酶 Defibrin，东菱迪芙，东菱精纯克栓酶
+作用于血液系统的药物->抗凝溶栓及抗血小板药->重组链激酶 Recombinant Streptokinase (C)，思凯通
+作用于血液系统的药物->抗凝溶栓及抗血小板药->噻氯匹定 Ticlopidine (B)，氯苄吡啶，抵克立得，TICLID
+作用于血液系统的药物->抗凝溶栓及抗血小板药->氢氯吡格雷 Clopidogrel Bisulfate (B)，波立维，泰嘉，PLAVIx
+作用于血液系统的药物->抗凝溶栓及抗血小板药->西洛他唑 Cilostazol (C)，培达，PLETAAL
+作用于血液系统的药物->抗凝溶栓及抗血小板药->沙格雷酯 Sarpogrelate，安步乐克，ANPLAG
+作用于血液系统的药物->抗凝溶栓及抗血小板药->奥扎格雷钠 Sodium Ozagrel，丹奥
+作用于血液系统的药物->抗凝溶栓及抗血小板药->前列腺素Ｅ1 Prostaglandin E1 (x/C)，前列地尔，凯时，保达新，PGE1，Alprostadil，Prostavasin，【医
+作用于血液系统的药物->抗凝溶栓及抗血小板药->曲克芦丁 Troxerutin，羟乙基芦丁，维脑路通，Venoruton，Trioxyethylrutin
+作用于血液系统的药物->抗凝溶栓及抗血小板药->白眉蛇毒凝血酶 Hemocoagulase，邦亭
+作用于血液系统的药物->抗贫血药->维铁控释片，福乃得，FERROIDS
+作用于血液系统的药物->抗贫血药->琥珀酸亚铁 Ferrous Succinate，速力菲
+作用于血液系统的药物->抗贫血药->叶酸 Folic Acid (A/C)，维生素Ｍ，Vitamin M
+作用于血液系统的药物->抗贫血药->维生素Ｂ12 Vitamin B12 (A/C)，氰钴酸，Cyanocobalamin
+作用于血液系统的药物->抗贫血药->甲钴胺 Mecobalamin，弥可保，怡神保，METHYCOBAL
+作用于血液系统的药物->抗贫血药->亚叶酸钙 Calcium Folinate，甲酰四氢叶酸钙，同奥，Calcium Leucovorin，CF
+作用于血液系统的药物->抗贫血药->重组人体红细胞生成素 Recombinant Human Erythropoietin，利血宝，宁红欣，益比奥，怡宝，怡普利，rHuEPO，EPIAO
+作用于血液系统的药物->促进白细胞增生药->利血生 Leucoson，利可君，Leucogen
+作用于血液系统的药物->促进白细胞增生药->鲨肝醇 Batilol，Batylalcohol，Batylol
+作用于血液系统的药物->促进白细胞增生药->小檗胺 Berbamine，升白安
+作用于血液系统的药物->促进白细胞增生药->重组人粒细胞集落刺激因子 Granulocyte Colony Stimulating Factor，格拉诺赛特，惠尔血，吉粒芬，金磊赛强，瑞白，rhG~CSF，
+作用于血液系统的药物->促进白细胞增生药->肌苷 Inosine，次黄嘌呤核苷，Hypoxanthine，Hypoxanthosine
+作用于血液系统的药物->血浆及血容量扩充剂->右旋糖酐 40 Dextran 40 (C)，低分子右旋糖酐，Low Molecular Dextran
+作用于血液系统的药物->血浆及血容量扩充剂->羟乙基淀粉 Hydroxyethyl Starch，万汶
+作用于血液系统的药物->血浆及血容量扩充剂->人血白蛋白 Human Serum Albumin，贝林，Human Seroalbumin
+作用于血液系统的药物->血浆及血容量扩充剂->102，菲克雪浓
+作用于血液系统的药物->水、糖、电解质及酸碱平衡调节剂->氯化钠 Sodium Chloride (C)，含量为 0.9%的亦可称生理盐水，Normal Saline
+作用于血液系统的药物->水、糖、电解质及酸碱平衡调节剂->氯化钠溶液 Sodium Choride Solution (C) (医院制剂)，外用生理盐水
+作用于血液系统的药物->水、糖、电解质及酸碱平衡调节剂->复方氯化钠 Sodium Chloride Co.，林格氏液，Ringer's Solution
+作用于血液系统的药物->水、糖、电解质及酸碱平衡调节剂->乳酸钠林格 Lactated Ringer's 。，百特平衡液，BAxTER，Balance Solution
+作用于血液系统的药物->水、糖、电解质及酸碱平衡调节剂->氯化钾 Potassium Chloride (A)，补达秀，BUDAxIU
+作用于血液系统的药物->水、糖、电解质及酸碱平衡调节剂->葡萄糖酸钙 Calcium Gluconate (C)，葡酸钙
+作用于血液系统的药物->水、糖、电解质及酸碱平衡调节剂->唑来膦酸 Zoledronic acid，天晴依泰针
+作用于血液系统的药物->水、糖、电解质及酸碱平衡调节剂->电解质口服粉剂 Oral Rehydration Salt Powder，口服补液盐，ORS
+作用于血液系统的药物->水、糖、电解质及酸碱平衡调节剂->葡萄糖 Glucose，右旋糖，Dextrose，GS
+作用于血液系统的药物->水、糖、电解质及酸碱平衡调节剂->转化糖注射液 Invert Sugar，耐能
+作用于血液系统的药物->水、糖、电解质及酸碱平衡调节剂->107，腹透液，Dianeal
+作用于血液系统的药物->水、糖、电解质及酸碱平衡调节剂->【医保】 甲，灭菌注射用水，Sterile Water for
+作用于血液系统的药物->水、糖、电解质及酸碱平衡调节剂->枸橼酸钾颗粒剂 Potassium Citrate Granules，可维加，【 医保】 丙
+作用于呼吸系统药物->祛痰药->溴己新 Bromhexine，必嗽平，Bisolvon
+作用于呼吸系统药物->祛痰药->羧甲司坦 Carbocisteine，羧甲半胱胺酸，化痰片，S~Carbomethylcysteine，S~CMC
+作用于呼吸系统药物->祛痰药->吉诺通 Gelomyrtol，强力稀化粘素，Myrtol
+作用于呼吸系统药物->祛痰药->氨溴索 Ambroxol，沐舒坦，伊诺舒，菲得欣，维可莱，Mucosolvan
+作用于呼吸系统药物->镇咳药->可待因 Codeine (C/D)，甲基吗啡
+作用于呼吸系统药物->镇咳药->喷托维林 Pentoxyverine，咳必清，维静宁
+作用于呼吸系统药物->镇咳药->阿桔片 Tab. Opium and platycode，复方桔梗片（含阿片）
+作用于呼吸系统药物->镇咳药->复方甘草合剂 Glycyrrhizae Co. Mixture，棕色合剂，Brown Mixtrue，【 医保】 甲
+作用于呼吸系统药物->镇咳药->息可宁 SECORINE，愈酚甲麻那敏
+作用于呼吸系统药物->平喘药->麻黄碱 Ephedrine （C），麻黄素
+作用于呼吸系统药物->平喘药->沙丁胺醇 Salbutamol (C)，舒喘灵，万托林，VENTOLIN
+作用于呼吸系统药物->平喘药->特布他林 Terbutaline (B)，间羟叔丁肾上腺素，博利康尼，喘康速，BRICANYL，【 医保】 乙
+作用于呼吸系统药物->平喘药->班布特罗 Bambuterol，帮备，BAMBEC
+作用于呼吸系统药物->平喘药->丙卡特罗 Procaterol，美普清，MEPTIN
+作用于呼吸系统药物->平喘药->二羟丙茶碱 Diprophylline，喘定、甘油茶碱，Dyphylline
+作用于呼吸系统药物->平喘药->茶碱 Theophylline (C)，时尔平
+作用于呼吸系统药物->平喘药->异丙托溴铵 Ipratropine （B），溴化异丙阿托品，爱全乐，ATROVENT
+作用于呼吸系统药物->平喘药->异丙托溴铵/沙丁胺醇 Ipratropine/Salbutamol (B)
+作用于呼吸系统药物->平喘药->丙酸倍氯米松 Beclomethasone Dipropinate (C)，必可酮，BECOTIDE
+作用于呼吸系统药物->平喘药->孟鲁司特 Montelukast (B)，顺尔宁，SINGULAIR
+作用于呼吸系统药物->平喘药->沙美特罗替卡松 Salmeterol and Fluticasone propionate (C)，舒利迭，SERETIDE
+作用于呼吸系统药物->平喘药->115，核酪，【 医保】 丙
+作用于呼吸系统药物->平喘药->复方甲氧那明 Compound methoxyphenamine，阿斯美，克之胶囊， ASMETON
+作用于呼吸系统药物->平喘药->布地奈德 Budesonide Nebulising (B/C)，普米克，普米克令舒，普米克都保，Pulmicort，Respules
+作用于呼吸系统药物->平喘药->福莫特罗 Formoterol，奥克斯都保，Oxis Turbuhaler
+作用于呼吸系统药物->其他类药->过氧化碳酰胺（冻干） Carbamide Peroxide for lnjection，因必舒，【 医保】 丙
+作用于消化系统药物->抗酸药及治疗消化性溃疡药->碳酸氢钠 Sodium Bicarbonate (C)，小苏打
+作用于消化系统药物->抗酸药及治疗消化性溃疡药->大黄碳酸氢钠 Sodium Bicarbonate & Rhei，大黄苏打
+作用于消化系统药物->抗酸药及治疗消化性溃疡药->兰索拉唑 Lansoprazole Tablets，达克普隆，TAKEPRON
+作用于消化系统药物->抗酸药及治疗消化性溃疡药->复方枸橼酸阿尔维林 Compound Alverine Citrate，乐健素，Meteospasmyl
+作用于消化系统药物->抗酸药及治疗消化性溃疡药->复方氢氧化铝 Aluminum Hydroxide Co. (C)，胃舒平
+作用于消化系统药物->抗酸药及治疗消化性溃疡药->尿囊素铝颗粒 Aldioxa Granules，卡尔萨
+作用于消化系统药物->抗酸药及治疗消化性溃疡药->铝碳酸镁 Hydrotalcite，达喜，威地美，水化碳酸氢氧化镁铝，TALCID
+作用于消化系统药物->抗酸药及治疗消化性溃疡药->硫糖铝 Sucralfate (B)，胃溃宁，迪先
+作用于消化系统药物->抗酸药及治疗消化性溃疡药->磷酸铝凝胶 Colloidal Aluminium Phosphate Gel，洁维乐
+作用于消化系统药物->抗酸药及治疗消化性溃疡药->122，甲氰咪胍
+作用于消化系统药物->抗酸药及治疗消化性溃疡药->雷尼替丁 Ranitidine (B)，呋喃硝胺，兰百幸
+作用于消化系统药物->抗酸药及治疗消化性溃疡药->枸橼酸铋雷尼替丁 Ranitidine Bismuth Citrate，瑞倍，REBAC
+作用于消化系统药物->抗酸药及治疗消化性溃疡药->法莫替丁 Famotidine (B)，高舒达，信法丁，GASTER
+作用于消化系统药物->抗酸药及治疗消化性溃疡药->奥美拉唑 Omeprazole (C)，洛赛克，丽奥佳针，金奥康，奥西康针，LOSEC，【 医保】 乙
+作用于消化系统药物->抗酸药及治疗消化性溃疡药->埃索美拉唑 Esomeprazole (B)，耐信，NExIUM，【 医保】 乙
+作用于消化系统药物->抗酸药及治疗消化性溃疡药->泮托拉唑钠 Pantoprazole Sodium (B)，泮立苏，潘妥洛克针，韦迪针，【 医保】 注射剂：乙，￥￥￥￥；
+作用于消化系统药物->抗酸药及治疗消化性溃疡药->雷贝拉唑钠 Rabeprazole Sodium (B)，波利特，安斯菲，瑞波特，PARIET
+作用于消化系统药物->抗酸药及治疗消化性溃疡药->马来酸伊索拉定 Irsogladine Maleate，科玛诺，Kemanuo
+作用于消化系统药物->抗酸药及治疗消化性溃疡药->米索前列醇 Misoprostol (x)，喜克馈，CYTOTEC
+作用于消化系统药物->抗酸药及治疗消化性溃疡药->替普瑞酮 Teprenone，施维舒，SELBEx
+作用于消化系统药物->抗酸药及治疗消化性溃疡药->Marzulene~S，呱仑酸钠/L~谷酰胺
+作用于消化系统药物->抗酸药及治疗消化性溃疡药->金泉胃炎胶囊，复方庆大霉素普鲁卡因，JINQUANWEIYAN
+作用于消化系统药物->抗酸药及治疗消化性溃疡药->瑞巴派特 Rebamipide，膜固思达，Mucosta
+作用于消化系统药物->胃肠解痉药->丙胺太林 Propantheline Bromide (C)，普鲁本辛
+作用于消化系统药物->胃肠解痉药->山莨菪碱 Anisodamine (C)，654~2，氢溴酸山莨菪碱
+作用于消化系统药物->胃肠解痉药->丁溴东莨菪碱 Scopolamine Butylbromide，解痉灵
+作用于消化系统药物->胃肠解痉药->屈他维林 Drotaverine，诺仕帕，定痉灵，NO~SPA
+作用于消化系统药物->胃肠解痉药->匹维溴铵 Pinaverium Bromide，得舒特，DICETEL
+作用于消化系统药物->胃肠解痉药->奥替溴铵 Otilonium Bromide，斯巴敏，SPASMOMEN
+作用于消化系统药物->胃肠解痉药->伊托比利 Itopride，瑞复啉
+作用于消化系统药物->胃肠解痉药->马来酸替加色罗 Tegaserod Hydrogen Maleate，泽马可
+作用于消化系统药物->胃肠解痉药->间苯三酚注射液 Phloroglucinol，斯帕丰，Spasfon
+作用于消化系统药物->止吐、催吐药及胃肠推动药->甲氧氯普胺 Metoclopramide (B)，胃复安，灭吐灵，Paspertin
+作用于消化系统药物->止吐、催吐药及胃肠推动药->多潘立酮 Domperidone，恒邦，吗叮啉，双咪酮，MOTILIUM
+作用于消化系统药物->止吐、催吐药及胃肠推动药->莫沙必利 Mosapride，枸橼酸莫沙必利，新络纳，加斯清，瑞琪，GASMOTIN
+作用于消化系统药物->止吐、催吐药及胃肠推动药->马来酸曲美布汀 Trimebutine Maleate，诺为，DIWAY
+作用于消化系统药物->止吐、催吐药及胃肠推动药->昂丹司琼 Ondansetron (B)，恩丹西酮，枢丹，欧贝，维泽，ZUDAN
+作用于消化系统药物->止吐、催吐药及胃肠推动药->格拉司琼 Granisetron (B)，凯特瑞，欧智宁，震怡，KYTRIL，【 医保】 乙
+作用于消化系统药物->止吐、催吐药及胃肠推动药->托烷司琼 Tropisetron，欧必亭，赛格恩
+作用于消化系统药物->止吐、催吐药及胃肠推动药->阿扎司琼 Azasetron，欧立康定
+作用于消化系统药物->止吐、催吐药及胃肠推动药->氯波必利片 Clebopride Malate Tablets，维恒片
+作用于消化系统药物->缓泻剂及泻药->酚酞 Phenolphthalein (C)，果导，【 医保】 甲
+作用于消化系统药物->缓泻剂及泻药->甘油 Glycerin (C)，丙三醇，【 医保】 丙
+作用于消化系统药物->缓泻剂及泻药->液状石蜡 Liquid Paraffin，石蜡油，灭菌石蜡油，【 医保】 乙
+作用于消化系统药物->缓泻剂及泻药->艾者思，舒立通，其颗粒剂又称车前番泻复合颗粒，天然植物性缓泻剂
+作用于消化系统药物->缓泻剂及泻药->聚乙二醇 4000 Macrogol4000，福松，FORLAX
+作用于消化系统药物->缓泻剂及泻药->聚乙二醇电解质散剂 Sulfate~free Polyethylene Glycol Electro，舒泰清
+作用于消化系统药物->缓泻剂及泻药->比沙可啶 Bisacodyl，便塞停
+作用于消化系统药物->缓泻剂及泻药->磷酸钠溶液 Sodium Phosphate.，辉力，Fleet
+作用于消化系统药物->止泻药->复方地芬诺酯 Diphenoxylate Co. (C)，复方苯乙哌啶，止泻宁
+作用于消化系统药物->止泻药->洛哌丁胺 Loperamide (B)，氯苯哌酰胺，易蒙停，IMODIUM
+作用于消化系统药物->止泻药->思密达 Dioctahedral Smectite，硅铝酸盐，双八面体蒙脱石，SMECTA
+作用于消化系统药物->肠道微生态调节剂及肠炎用药->丽珠肠乐 Bifidobiogen，回春生，双歧杆菌活菌，LIVZONCHANGLE
+作用于消化系统药物->肠道微生态调节剂及肠炎用药->双歧三联活菌 Bifid Triple Viable，培菲康，BIFICO
+作用于消化系统药物->肠道微生态调节剂及肠炎用药->四联活菌片 Combined Bifidobacterium,Lactobacillus,E，思连康
+作用于消化系统药物->肠道微生态调节剂及肠炎用药->多维乳酸菌，妈咪爱，婴幼儿复方乳酸菌健肠剂，Medilac~Vita，【 医保】 丙
+作用于消化系统药物->肠道微生态调节剂及肠炎用药->141，米雅ＢＭ，MIYA~BM
+作用于消化系统药物->肠道微生态调节剂及肠炎用药->地衣芽孢杆菌 Micro~ecological，整肠生，ZHENG CHANG SHENG
+作用于消化系统药物->肠道微生态调节剂及肠炎用药->美沙拉嗪 Mesalazine (B)，5~氨基水杨酸，颇得斯安，艾迪莎，ETIASA
+作用于消化系统药物->肠道微生态调节剂及肠炎用药->二联活菌肠溶胶囊，美常安
+作用于消化系统药物->肠道微生态调节剂及肠炎用药->巴柳氮钠颗粒 Balsalszide Sodium Granules，塞莱得
+作用于消化系统药物->助消化药->多酶片 Multienzyme Tablets，DPP
+作用于消化系统药物->助消化药->慷彼申 COMBIZYM，米曲菌胰酶，多酶消化药
+作用于消化系统药物->助消化药->复合消化酶 Polyenzymatic Digestant，达吉，DAGES
+作用于消化系统药物->助消化药->胰酶 Pancreatin，得每通，CREON
+作用于消化系统药物->助消化药->干酵母 Dried Yeast，食母生
+作用于消化系统药物->助消化药->复方阿嗪米特 Compound Azintamide，泌特，MITE
+作用于消化系统药物->助消化药->【别名】 泌特。MITE。 【医保】 乙
+作用于消化系统药物->抗胀气及其它胃肠用药->二甲基硅油 Dimethicone，二甲硅油，消胀片，Simethicone
+作用于消化系统药物->肝、胆疾病辅助用药治疗肝昏迷药->乳果糖 Lactulose (B)，杜秘克，DUPHALAC，【 医保】 乙
+作用于消化系统药物->肝、胆疾病辅助用药治疗肝昏迷药->葡醛酸钠 Sodium grucuronic acid，肝泰乐
+作用于消化系统药物->肝、胆疾病辅助用药治疗肝炎辅助用药->水飞蓟素 Silibinin，益肝灵，Silybin
+作用于消化系统药物->肝、胆疾病辅助用药治疗肝炎辅助用药->复方甘草酸单铵 Potenlin，强力宁
+作用于消化系统药物->肝、胆疾病辅助用药治疗肝炎辅助用药->硫普罗宁 Tiopronin，凯西莱
+作用于消化系统药物->肝、胆疾病辅助用药治疗肝炎辅助用药->还原型谷胱甘肽 Teduced Glutathione，阿拓莫兰
+作用于消化系统药物->肝、胆疾病辅助用药治疗肝炎辅助用药->五味子甲素 Schizandrin A，五酯胶囊，WUZHICAPSULES
+作用于消化系统药物->肝、胆疾病辅助用药治疗肝炎辅助用药->门冬氨酸鸟氨酸 Ornithine Aspartate，瑞甘
+作用于消化系统药物->肝、胆疾病辅助用药治疗肝炎辅助用药->胆碱磷酸甘油二酯 Essentiale N，易善复，必需磷脂
+作用于消化系统药物->肝、胆疾病辅助用药治疗肝炎辅助用药->复方牛胎肝提取物 Compound Embryonic Bovine Liver Extract，江世肝宁
+作用于消化系统药物->肝、胆疾病辅助用药治疗肝炎辅助用药->【别名】 江世肝宁。 【医保】 乙
+作用于消化系统药物->肝、胆疾病辅助用药治疗肝炎辅助用药->甘草酸二铵注射液 Diammonium Glycyrrhizinate，甘利欣注射液
+作用于消化系统药物->肝、胆疾病辅助用药治疗肝炎辅助用药->复方甘草甜素注射液 Compound Glycyrrhizin，美能，【 医保】 乙
+作用于消化系统药物->肝、胆疾病辅助用药治疗肝炎辅助用药->水飞蓟宾葡甲胺片 Silybin Meglumine Tablets，西利宾胺
+作用于消化系统药物->肝、胆疾病辅助用药治疗肝炎辅助用药->苦参素 Marineand，天晴复欣胶囊
+作用于消化系统药物->肝、胆疾病辅助用药治疗肝炎辅助用药->叶绿素铜钠 Sodium Cupper Chlorophyllin，叶拜克
+作用于消化系统药物->肝、胆疾病辅助用药利胆和胆石溶解剂->胆通 Hitrechol，爱活胆通，【 医保】 丙
+作用于消化系统药物->肝、胆疾病辅助用药利胆和胆石溶解剂->熊去氧胆酸 Ursodeoxycholic Acid，优思弗，URSOFALK，【 医保】 甲
+作用于消化系统药物->肝、胆疾病辅助用药利胆和胆石溶解剂->亮菌甲素 Armillarisin A，假密环菌甲素，【 医保】 丙
+作用于消化系统药物->肝、胆疾病辅助用药利胆和胆石溶解剂->托尼萘酸 Nicotinic acid/α~naphthyl aceti，加诺，肝胆能，GALLE~DONAU
+作用于消化系统药物->肝、胆疾病辅助用药利胆和胆石溶解剂->腺苷蛋氨酸 Ademetionine，思美泰，TRANSMETIL
+作用于消化系统药物->肝、胆疾病辅助用药利胆和胆石溶解剂->保胆健素 Dihydroxydibutylether，DYSKINEBYL
+作用于中枢神经的药物->中枢神经兴奋药->Monosialotetrahexosylganglioside Sodium，申捷
+作用于中枢神经的药物->中枢神经兴奋药->尼可刹米 Nikethamide，可拉明，二乙烟酰胺，Coramine
+作用于中枢神经的药物->中枢神经兴奋药->洛贝林 Lobeline，山梗菜碱，祛痰菜碱
+作用于中枢神经的药物->中枢神经兴奋药->贝美格 Bemegride，美解眠，Megimide
+作用于中枢神经的药物->中枢神经兴奋药->苯甲酸钠咖啡因 Caffeine and Sodium Benzoate，安钠咖，CSB，CNB
+作用于中枢神经的药物->中枢神经兴奋药->多沙普仑 Doxapram，佳苏仑
+作用于中枢神经的药物->中枢神经兴奋药->甲氯芬酯 Meclofenoxate Hydrochloride for，脑瑞苏
+作用于中枢神经的药物->镇痛药->吗啡 Morphine (C/D)，美施康定(硫酸盐)，美菲康(盐酸盐)，MSCONTIN
+作用于中枢神经的药物->镇痛药->哌替啶 Pethidine (B/D)，度冷丁，Dolantin，Demerol
+作用于中枢神经的药物->镇痛药->芬太尼 Fentanyl (C/D)，多瑞吉，DUROGESIC
+作用于中枢神经的药物->镇痛药->丁丙诺啡 Buprenorphine (C)，沙菲
+作用于中枢神经的药物->镇痛药->布桂嗪 Bucinnazine，强痛定，Fortanatyn，AP~237
+作用于中枢神经的药物->镇痛药->曲马多 Tramadol (C)，反胺苯环醇，舒敏，Tramal
+作用于中枢神经的药物->镇痛药->罗通定 Rotundin，颅痛定，左旋四氢巴马丁
+作用于中枢神经的药物->镇痛药->复方丙氧氨酚 Propoxyphene Napsylate and Paracetamol (C/D)，达宁
+作用于中枢神经的药物->镇痛药->瑞芬太尼 Rimifentanil，瑞捷
+作用于中枢神经的药物->镇痛药->舒芬太尼 Sufentanil，舒芬尼，枸橼酸舒芬太尼，Sufentanil Intravenous，【 医保】 乙
+作用于中枢神经的药物->镇痛药->羟考酮 Oxycodone，奥施康定
+作用于中枢神经的药物->镇痛药->氨酚双氢可待因 Paracetamol and Dihydrocodeine Tartrate Tablets，路盖克
+作用于中枢神经的药物->抗震颤麻痹药->奥拉西坦 Oxiracetam，健朗星
+作用于中枢神经的药物->抗震颤麻痹药->左旋多巴/卡比多巴 Carbidopa~Levodopa，息宁
+作用于中枢神经的药物->抗震颤麻痹药->左旋多巴/苄丝肼 Levodopa~Benserazide，美多芭，MADOPAR
+作用于中枢神经的药物->抗震颤麻痹药->吡贝地尔 Piribedil，泰舒达，TRASTAL，【 医保】 乙
+作用于中枢神经的药物->抗震颤麻痹药->培高利特 Pergolide，协良行，CELANCE
+作用于中枢神经的药物->抗震颤麻痹药->苯海索 Trihexyphenidyl (C)，安坦，Benzhexol，ARTANE
+作用于中枢神经的药物->抗震颤麻痹药->溴隐亭 Bromocriptine (C)，溴麦角隐亭
+作用于中枢神经的药物->抗震颤麻痹药->司来吉兰 Selegiline，咪多吡，ELDEPRYL
+作用于中枢神经的药物->镇静、催眠、抗焦虑药->苯巴比妥 Phenobarbital (D)，鲁米那，Luminal
+作用于中枢神经的药物->镇静、催眠、抗焦虑药->氯氮 Chlordiazepoxide (D)，利眠宁，Librium
+作用于中枢神经的药物->镇静、催眠、抗焦虑药->地西泮 Diazepam (D)，安定，Valium
+作用于中枢神经的药物->镇静、催眠、抗焦虑药->硝西泮 Nitrazepam，硝基安定
+作用于中枢神经的药物->镇静、催眠、抗焦虑药->氯硝西泮 Clonazepam (D)，氯硝安定，Clonopin
+作用于中枢神经的药物->镇静、催眠、抗焦虑药->氟西泮 Flurazepam (x)，氟安定，氟胺安定
+作用于中枢神经的药物->镇静、催眠、抗焦虑药->劳拉西泮 Lorazepam (D)，罗拉，氯羟安定，洛拉酮，Lora
+作用于中枢神经的药物->镇静、催眠、抗焦虑药->艾司唑仑 Estazolam，舒乐安定，三唑氮
+作用于中枢神经的药物->镇静、催眠、抗焦虑药->阿普唑仑 Alprazolam (D)，佳乐定，xanax
+作用于中枢神经的药物->镇静、催眠、抗焦虑药->咪达唑仑 Midazolam (D)，咪唑安定，力月西，DORMICUM
+作用于中枢神经的药物->镇静、催眠、抗焦虑药->羟嗪 Hydroxyzine (C)，安泰乐，Atarax
+作用于中枢神经的药物->镇静、催眠、抗焦虑药->唑吡坦 Zolpidem (B)，思诺思，STILNOx
+作用于中枢神经的药物->镇静、催眠、抗焦虑药->谷维素 Oryzanol，阿魏酸脂片
+作用于中枢神经的药物->镇静、催眠、抗焦虑药->扎来普隆 Zaleplon，安己辛
+作用于中枢神经的药物->癫痫药->苯妥英钠 Phenytoin Sodium (D)，大仑丁，DILANTIN
+作用于中枢神经的药物->癫痫药->卡马西平 Carbamazepine (D)，酰胺咪嗪，得理多，TEGRETOL
+作用于中枢神经的药物->癫痫药->丙戊酸钠 Sodium Valproate，德巴金，DEPAKENE
+作用于中枢神经的药物->癫痫药->托吡酯 Topiramate，妥泰，TOPAMAx
+作用于中枢神经的药物->癫痫药->加巴喷丁 Gabapentin，迭力
+作用于中枢神经的药物->抗精神失常药->抗精神病药->氯丙嗪 Chlorpromazine (C)，冬眠灵，氯普马嗪，Wintermin
+作用于中枢神经的药物->抗精神失常药->抗精神病药->奋乃静 Perphenazine (C)，羟哌氯丙嗪，TRILAFON
+作用于中枢神经的药物->抗精神失常药->抗精神病药->氟哌啶醇 Haloperidol (C)，氟哌丁苯，氟哌醇
+作用于中枢神经的药物->抗精神失常药->抗精神病药->氟哌利多 Droperidol (C)，氟哌啶，达罗哌丁苯
+作用于中枢神经的药物->抗精神失常药->抗精神病药->舒必利 Sulpiride，硫苯酰胺，止吐灵
+作用于中枢神经的药物->抗精神失常药->抗精神病药->硫必利 Tiapride，泰必利
+作用于中枢神经的药物->抗精神失常药->抗精神病药->氯氮平 Clozapine (B)，氯札平
+作用于中枢神经的药物->抗精神失常药->抗精神病药->奥氮平 Olanzapine，再普乐，ZYPRExA
+作用于中枢神经的药物->抗精神失常药->抗精神病药->利培酮 Risperidone，维思通，RISPERDAL
+作用于中枢神经的药物->抗精神失常药->抗精神病药->氟哌噻吨美利曲辛 Flupentixol and Melitracen，黛力新，Deanxit
+作用于中枢神经的药物->抗精神失常药->抗抑郁症药->阿米替林 Amitriptyline (C)，阿密替林，Amitril，Amitid
+作用于中枢神经的药物->抗精神失常药->抗抑郁症药->多塞平 Doxepin (C)，多虑平
+作用于中枢神经的药物->抗精神失常药->抗抑郁症药->氯米帕明 Clomipramine (C)，氯丙咪嗪，安拿芬尼，Chlorimipramine，ANAFRANIL，【 医保】
+作用于中枢神经的药物->抗精神失常药->抗抑郁症药->氟西汀 Fluoxetine (C)，百优解，PROZAC
+作用于中枢神经的药物->抗精神失常药->抗抑郁症药->帕罗西汀 Paroxetine (C)，赛乐特，乐友，SEROxAT
+作用于中枢神经的药物->抗精神失常药->抗抑郁症药->文拉法辛 Venlafaxine (C)，博乐欣，怡诺思，万拉法新，EFExOR
+作用于中枢神经的药物->抗精神失常药->抗抑郁症药->曲唑酮 Trazodone (C)，美舒郁，MESYREL
+作用于中枢神经的药物->抗精神失常药->抗抑郁症药->噻奈普汀 Tianeptine，达体朗，TATINOL
+作用于中枢神经的药物->抗精神失常药->抗抑郁症药->哌甲酯 Methylphenidate Hydrochloride，哌醋甲酯，利他林，RITALIN
+作用于中枢神经的药物->抗精神失常药->抗抑郁症药->西酞普兰 Citalopram，喜普妙，Cipramil
+作用于中枢神经的药物->抗精神失常药->抗抑郁症药->盐酸舍曲林 Sertraline Hydrochloride，左洛复
+作用于中枢神经的药物->大脑代谢功能促进剂->乙酰谷酰胺 Acetylglutamine，醋谷胺，Aceglutamide
+作用于中枢神经的药物->大脑代谢功能促进剂->胞磷胆硷 Citicoline，胞二磷胆硷，尼可林，益落清，Cytidine Diphosphate Choline，
+作用于中枢神经的药物->大脑代谢功能促进剂->甲氯芬酯 Meclofenoxate，氯酯醒，遗尿丁，Centrofenoxate
+作用于中枢神经的药物->大脑代谢功能促进剂->盐酸吡硫醇 Pyritinol Hydrochloride，脑复新，NEOROxIN
+作用于中枢神经的药物->大脑代谢功能促进剂->茴拉西坦 Aniracetam，阿尼西坦
+作用于中枢神经的药物->大脑代谢功能促进剂->吡拉西坦 Piracetam，康容
+作用于中枢神经的药物->大脑代谢功能促进剂->甲磺酸阿米三嗪~萝巴新 Almitrine Bismesylate~Raubasine，都可喜，DUxIL
+作用于中枢神经的药物->大脑代谢功能促进剂->脑蛋白水解物 Cerebroprotein Hydrolysate，施普善，脑酶水解片
+作用于中枢神经的药物->大脑代谢功能促进剂->石杉碱甲 Huperzine A，双益平，哈伯因
+作用于中枢神经的药物->大脑代谢功能促进剂->尼麦角林 Nicergoline，思尔明，乐喜林，SERMION
+作用于中枢神经的药物->大脑代谢功能促进剂->卡巴拉汀 Rivastigmine，艾斯能，ExELON
+作用于中枢神经的药物->大脑代谢功能促进剂->多奈哌齐 Donepezil，安理申，思博海，ARICEPT
+作用于中枢神经的药物->解热镇痛抗炎及抗痛风药->解热镇痛药->索米痛 Somiton，去痛片
+作用于中枢神经的药物->解热镇痛抗炎及抗痛风药->解热镇痛药->复方氨林巴比妥 Antondin，复方氨基比林
+作用于中枢神经的药物->解热镇痛抗炎及抗痛风药->抗炎镇痛药->吲哚美辛 Indomethacin (B/D)，消炎痛，Indomethacin，Indocin
+作用于中枢神经的药物->解热镇痛抗炎及抗痛风药->抗炎镇痛药->双氯芬酸钠 Diclofenac Sodium，双氯灭痛，扶他林，VOLTAREN，DICLAC
+作用于中枢神经的药物->解热镇痛抗炎及抗痛风药->抗炎镇痛药->尼美舒利 Nimesulide，怡美力，MESULID
+作用于中枢神经的药物->解热镇痛抗炎及抗痛风药->抗炎镇痛药->萘丁美酮 Nabumetone，瑞力芬，RELAFEN
+作用于中枢神经的药物->解热镇痛抗炎及抗痛风药->抗炎镇痛药->布洛芬 Ibuprofen (B/D)，异丁苯丙酸，芬必得，美林，FENBID，Brufen，MOTRIN
+作用于中枢神经的药物->解热镇痛抗炎及抗痛风药->抗炎镇痛药->氟比洛芬 Flurbiprofen Axetil，凯纷
+作用于中枢神经的药物->解热镇痛抗炎及抗痛风药->抗炎镇痛药->二氟尼柳片 Diflunisal Tablets，优尼森
+作用于中枢神经的药物->解热镇痛抗炎及抗痛风药->抗炎镇痛药->骨瓜提取物 Gugua Extractives，风湿乐注射液
+作用于中枢神经的药物->解热镇痛抗炎及抗痛风药->抗炎镇痛药->洛索洛芬钠 Loxoprofen，乐松，LOxONIN
+作用于中枢神经的药物->解热镇痛抗炎及抗痛风药->抗炎镇痛药->氯诺昔康 Lormoxicam，可塞风，xafon
+作用于中枢神经的药物->解热镇痛抗炎及抗痛风药->抗炎镇痛药->美洛昔康 Meloxicam (C/D)，莫比可，MOBIC
+作用于中枢神经的药物->解热镇痛抗炎及抗痛风药->抗炎镇痛药->190，西乐葆，CELEBREx
+作用于中枢神经的药物->解热镇痛抗炎及抗痛风药->抗炎镇痛药->复方氯唑沙宗 Composite Chlorzoxazone，鲁南贝特
+作用于中枢神经的药物->解热镇痛抗炎及抗痛风药->抗感冒药->双分伪麻片（日片）/美扑伪麻片（夜片），日夜百服咛，白加黑，BUFFERIN COLD
+作用于中枢神经的药物->解热镇痛抗炎及抗痛风药->抗感冒药->酚麻美敏，泰诺，TYLENOL
+作用于中枢神经的药物->解热镇痛抗炎及抗痛风药->抗感冒药->对乙酰氨基酚缓释片 Paracetamol Sustained~release Tablets，泰诺林
+作用于中枢神经的药物->解热镇痛抗炎及抗痛风药->抗感冒药->小儿氨酚那敏颗粒，小儿速效伤风冲剂
+作用于中枢神经的药物->解热镇痛抗炎及抗痛风药->抗感冒药->美敏伪麻溶液，惠菲宁，Robitussin
+作用于中枢神经的药物->解热镇痛抗炎及抗痛风药->抗痛风药->丙磺舒 Probenecid (C)，羧苯磺胺，Benemid
+作用于中枢神经的药物->解热镇痛抗炎及抗痛风药->抗痛风药->别嘌醇 Allopurinol (C)，别嘌呤醇，Isopurinol
+作用于中枢神经的药物->解热镇痛抗炎及抗痛风药->抗痛风药->秋水仙碱 Colchicine (D)，秋水仙素，COLC，COLCIN
+作用于中枢神经的药物->解热镇痛抗炎及抗痛风药->抗痛风药->苯溴马隆 Benzbromarone，立加利仙，Narcaricin
+作用于植物神经的药物->拟胆碱药->新斯的明 Neostigmine (C)，普洛色林
+作用于植物神经的药物->拟胆碱药->溴吡斯的明 Pyridostigmine Bromide (C)，溴化吡啶斯的明
+作用于植物神经的药物->抗胆碱药->东莨菪碱 Scopolamine (C)，丁溴东莨菪碱，氢溴东莨菪碱
+作用于植物神经的药物->拟肾上腺素药->β 受体激动剂->异丙肾上腺素 Isoprenaline (C)，治喘灵
+作用于泌尿系统的药物->利尿药->托拉塞米注射液 Torasemide，特苏尼
+作用于泌尿系统的药物->利尿药->呋塞米 Furosemide (C/D)，速尿，呋喃苯胺酸，Lasix，Frusemide
+作用于泌尿系统的药物->利尿药->氢氯噻嗪 Hydrochlorothiazide (B/D)，双氢氯噻嗪，双氢克尿塞，Dihydrochlorothiazide，DHCT
+作用于泌尿系统的药物->利尿药->螺内酯 Spironolactone (C/D)，安体舒通，Antisterone，Aldactone
+作用于泌尿系统的药物->利尿药->乙酰唑胺 Acetazolamide（C），醋唑磺胺，醋氮酰胺，Diamox
+作用于泌尿系统的药物->利尿药->醋甲唑胺 Methazolamide （C），尼目克司， NEARMOx
+作用于泌尿系统的药物->脱水药->复方甘露醇注射液 Compound Mannitol （C），艾杰仕
+作用于泌尿系统的药物->尿崩症用药->去氨加压素 Desmopressin（B），弥凝，MINIRIN
+作用于泌尿系统的药物->前列腺增生症用药->通尿灵 TADENAN，太得恩
+作用于泌尿系统的药物->前列腺增生症用药->普适泰 Prostat，舍尼通
+作用于泌尿系统的药物->前列腺增生症用药->非那雄胺 Finasteride，保列治
+作用于泌尿系统的药物->前列腺增生症用药->萘哌地尔 Naftopidil，那妥
+作用于泌尿系统的药物->前列腺增生症用药->坦索罗辛 Tamsulosin，哈乐，HARNAL
+作用于泌尿系统的药物->其他->阿魏酸哌嗪 Piperazine Ferulate（B），保肾康
+作用于泌尿系统的药物->其他->包醛氧淀粉 Coated Aldehyde Oxystarch，包醛氧化淀粉，CAO
+作用于泌尿系统的药物->其他->枸橼酸(柠檬酸)氢钾钠颗粒剂 Uralyt~U，友来特
+作用于生殖系统及泌乳功能药物->子宫收缩药->缩宫素 Oxytocin，催产素，奥赛托星， Pitocin
+作用于生殖系统及泌乳功能药物->抗早产药->盐酸利托君 Ritodrine Hydrochloride，安宝
+作用于生殖系统及泌乳功能药物->抗早产药->卡前列素氨丁三醇 Carboprost Tromethamine，欣母沛，Hemabate
+抗变态反应药物->抗组胺药->苯海拉明 Diphenhydramine (B)，苯那君
+抗变态反应药物->抗组胺药->氯苯那敏 Chlorphenamine (B)，扑尔敏
+抗变态反应药物->抗组胺药->异丙嗪 Promethazine (C)，非那根，Phenergan
+抗变态反应药物->抗组胺药->西替立嗪 Cetirizine (B)，仙特明，适迪，强溢，ZYRTEC
+抗变态反应药物->抗组胺药->氯雷他定 Loratadine (B)，开瑞坦，可米，CLARITYNE
+抗变态反应药物->抗组胺药->依巴斯汀 Ebastine，开思亭，KESTINE
+抗变态反应药物->抗组胺药->咪唑斯汀 Mizolastine，皿治林
+抗变态反应药物->抗组胺药->地氯雷他定 Desloratadine，恩理思，芙必叮分散片
+抗变态反应药物->过敏反应介质阻释剂->210，甲哌噻庚酮
+激素及有关药物->生长激素及生长抑素->生长激素->重组人生长激素 Rcombinant Human Somatropin，思真，珍怡，生长激素，SAIZEN，r~hGH
+激素及有关药物->生长激素及生长抑素->生长抑素->生长抑素十四肽 Somatostatin (B)，思他宁，忆太欣，生长激素释放抑制因子，STILAMIN，【 医保】 乙
+激素及有关药物->生长激素及生长抑素->生长抑素->生长抑素八肽 (B)，奥曲肽，善宁，善龙，Sandostatin，Octreotide
+激素及有关药物->肾上腺皮质激素->氢化可的松 Hydrocortisone (C)，氢可的松，琥 珀氢考，氢 化可的松琥珀酸钠，H ydrocortisone Sodium
+激素及有关药物->肾上腺皮质激素->泼尼松 Prednisone (C)，强的松
+激素及有关药物->肾上腺皮质激素->甲泼尼龙 Methylprednisolone，甲基强的松龙，美 乐，甲强龙，甲泼尼松琥珀酸钠，米乐松
+激素及有关药物->肾上腺皮质激素->曲安奈德 Triamcinolone Acetonide，曲安缩松，确炎舒松~Ａ
+激素及有关药物->肾上腺皮质激素->地塞米松 Dexamethasone (C)，氟美松，DxM
+激素及有关药物->肾上腺皮质激素->Betamethasone Dipropionate~Betamethasone Disodium Phosphate，得宝松，DIPROSPAN
+激素及有关药物->性激素及促性激素->雄激素及同化激素->甲睾酮 Methyltestosterone，甲基睾丸素
+激素及有关药物->性激素及促性激素->雄激素及同化激素->丙酸睾酮 Testosterone Propionate，丙酸睾丸素
+激素及有关药物->性激素及促性激素->雄激素及同化激素->十一酸睾酮 Testosterone Undecanoate，十一酸睾丸素，安特尔
+激素及有关药物->性激素及促性激素->雄激素及同化激素->苯丙酸诺龙 Nandrolone Phenylpropionate，苯丙酸去甲睾酮
+激素及有关药物->性激素及促性激素->雌激素及其类似合成物->苯甲酸雌二醇 Estradiol Benzoate，苯甲酸求偶二醇
+激素及有关药物->性激素及促性激素->雌激素及其类似合成物->戊酸雌二醇 Estradiol Valerate，补佳乐，Progynova
+激素及有关药物->性激素及促性激素->雌激素及其类似合成物->半水合雌二醇 Estradiol Hemihydrate，松奇
+激素及有关药物->性激素及促性激素->雌激素及其类似合成物->7~甲基异炔诺酮 Tibolone，利维爱，LIVIAL
+激素及有关药物->性激素及促性激素->雌激素及其类似合成物->混盒雌激素 Conjugated Estrogens (x)，结盒雌激素，倍美力，PREMARIN
+激素及有关药物->性激素及促性激素->雌激素及其类似合成物->尼尔雌醇 Nylestriol，维尼安
+激素及有关药物->性激素及促性激素->雌激素及其类似合成物->己烯雌酚 Diethylstilbestrol (x)，乙底酚
+激素及有关药物->性激素及促性激素->雌激素及其类似合成物->烯丙雌醇 Allylestrenol，多力玛，TURINAL
+激素及有关药物->性激素及促性激素->雌激素及其类似合成物->地屈孕酮 Dydrogesterone，达芙通
+激素及有关药物->性激素及促性激素->孕激素->黄体酮 Progesterone (D)，孕酮
+激素及有关药物->性激素及促性激素->孕激素->甲羟孕酮 Medroxyprogesterone (x)，甲孕酮，安宫黄体酮
+激素及有关药物->性激素及促性激素->孕激素->炔诺酮 Norethisterone (x)，妇康片
+激素及有关药物->性激素及促性激素->孕激素->复方醋酸环丙孕酮 Compound cyproterone acetate，达英~35，环丙孕酮~炔雌醇，DIANE~35
+激素及有关药物->性激素及促性激素->孕激素->孕三烯酮 Gestrinone，内美通，三烯高诺酮，NEMESTRAN
+激素及有关药物->性激素及促性激素->促性腺激素->绒促性素 Chorionic Gonadotrophin，HCG
+激素及有关药物->性激素及促性激素->促性腺激素->尿促性素 Menotrophin，HMG
+激素及有关药物->性激素及促性激素->促性腺激素->促卵泡生成素 Follitropin alfa，尿促卵泡成熟激素，果纳芬，Gonal~F
+激素及有关药物->性激素及促性激素->促性腺激素->氯米芬 Clomifene，氯底酚胺，克罗米芬
+激素及有关药物->性激素及促性激素->促性腺激素->曲普瑞林 Triptorelin，达比佳，达菲林，DECAPEPTYL，Diphereline
+激素及有关药物->性激素及促性激素->促性腺激素->亮丙瑞林 Leuprorelin (x)，抑那通，ENANTONE
+激素及有关药物->避孕药及抗早孕药->米非司酮 Mifepriston (x)，含珠停
+激素及有关药物->避孕药及抗早孕药->复方孕二酮片 Compound Gestodene tablets，敏定偶 28
+激素及有关药物->甲状腺激素类药物及抗甲状腺药物->甲状腺激素类药物->左旋甲状腺素 Levothyroxine (A)，优甲乐，Thyroxine，Ｔ4
+激素及有关药物->甲状腺激素类药物及抗甲状腺药物->抗甲状腺药->丙基硫氧嘧啶 Propylthiouracil (D)，丙硫氧嘧啶，丙赛优，普洛德，PTU
+激素及有关药物->甲状腺激素类药物及抗甲状腺药物->抗甲状腺药->甲巯咪唑 Methimazole，他巴唑，赛治，Thiamazole，Tapazole，Thyrozol
+激素及有关药物->甲状腺激素类药物及抗甲状腺药物->抗甲状腺药->复方碘溶液 Iodine Co. Liq. (D) （医院制剂），卢戈氏液，Lugol's
+激素及有关药物->影响骨代谢药->氯甲双膦酸二钠 Dichloromethylene Bisphosphonate Disodium，固令，Bonefos
+激素及有关药物->影响骨代谢药->降钙素 Calcitonin (C)，鲑鱼降钙素，密钙息，金尔力，盖瑞宁，MIACALCICS
+激素及有关药物->影响骨代谢药->阿仑磷酸钠 Alendronate Sodium，福善美，固邦
+激素及有关药物->影响骨代谢药->硫酸氨基葡萄糖 Glucosamine Sulfate，维固力，硫酸葡萄糖胺
+激素及有关药物->影响骨代谢药->雷洛昔芬 Raloxifene，易维特，Evista Tablet
+激素及有关药物->降血糖药->胰岛素 Insulin (B)，常规优泌林，人胰岛素，Regular Insulin，HUMULIN R
+激素及有关药物->降血糖药->精蛋白锌胰岛素 Protamine Zinc Insulin，长效胰岛素
+激素及有关药物->降血糖药->普通人体胰岛素 Regular Human Insulin，诺和灵Ｒ，短效胰岛素，中性可溶性人胰岛素，NOVOLIN R
+激素及有关药物->降血糖药->中性低精蛋白锌胰岛素 Isophane Insulin，中效胰岛素，诺和灵Ｎ，中效优泌林，NOVOLIN N，HUMULIN
+激素及有关药物->降血糖药->双时相低精蛋白锌人胰岛素 Biphasic Isophane Insulin，诺和灵 30Ｒ，混盒胰岛素，混盒优泌林，NOVOLIN 30R
+激素及有关药物->降血糖药->格列吡嗪 Glipizide (C)，美吡达，瑞易宁，唐贝克，MEIBIDA
+激素及有关药物->降血糖药->格列美脲 Glimepiride (C)，亚莫利，Amaryl
+激素及有关药物->降血糖药->格列喹酮 Gliquidone，糖适平，GLURENORM
+激素及有关药物->降血糖药->二甲双胍 Metformine，格华止，GLUCOPHAGE
+激素及有关药物->降血糖药->瑞格列奈 Repaglinide (C)，诺和龙，孚来迪，NOVONORM
+激素及有关药物->降血糖药->阿卡波糖 Acarbose (B)，拜唐苹，卡博平，GLUCOBAY，KABOPING
+激素及有关药物->降血糖药->伏格列波糖 Voglibose，倍欣，BASEN
+激素及有关药物->降血糖药->罗格列酮 Rosiglitazone (C)，文迪雅，AVANDIA
+激素及有关药物->降血糖药->吡格列酮 Pioglitazone (C)，艾汀，卡司平，Actlns
+激素及有关药物->降血糖药->格列齐特 Gliclazide Modified，达美康片，达美康缓释片，Dimicron MR
+激素及有关药物->降血糖药->那格列奈 Nateglinide，唐力
+激素及有关药物->降血糖药->甘精胰岛素 LANTUS Insulin Glargine。，来得时
+维生素、微量元素及营养药->维生素类->维生素Ａ Vitamin A (A/x)，维生素甲，Vit A，视黄醇，甲种维生素，Retinol
+维生素、微量元素及营养药->维生素类->阿法骨化醇 Alfacalcidol，阿法Ｄ3，1α~羟基维生素Ｄ3，法能，1α~Hydroxycholecalciferol
+维生素、微量元素及营养药->维生素类->骨化三醇 Calcitriol (C?A/D)，1α,25
+维生素、微量元素及营养药->维生素类->维生素 AD Vitamin AD，伊可新
+维生素、微量元素及营养药->维生素类->维生素Ｂ1 VitaminＢ1 (A/C)，硫胺，Thiamine，Vit Ｂ1
+维生素、微量元素及营养药->维生素类->甲硫氨酸维生素 B1 注射液，甲维比
+维生素、微量元素及营养药->维生素类->呋喃硫胺 Fursultiamine，Thiamine Tetrahydrofuryl Disulfide，TTFD
+维生素、微量元素及营养药->维生素类->烟酰胺 Nicotinamide (A/C)，维生素 PP，Nicotinic Acid Amide，NAA
+维生素、微量元素及营养药->维生素类->烟酸 Nicotinic Acid (A/C)，尼古丁酸，舒成，NA
+维生素、微量元素及营养药->维生素类->维生素Ｂ2 Vitamin B2 (A/C)，核黄素，维生素乙 2，Riboflavin，Vit B2
+维生素、微量元素及营养药->维生素类->维生素Ｂ6 Vitamin B6 (A/C)，吡多辛，Pyridoxine，Vit B6
+维生素、微量元素及营养药->维生素类->复合维生素Ｂ Vitamin B Co. (A)，口服液亦称宝立康，Vit B Co.
+维生素、微量元素及营养药->维生素类->维生素Ｃ Vitamin C (A/C)，抗坏血酸，维生素丙，泡腾片亦称力度伸，Ascorbic Acid ，Vit C，
+维生素、微量元素及营养药->维生素类->维生素 E Vitamin E (A/C)，生育酚，Vit E
+激素及有关药物->微量元素类->盖福润 Gevrine，天达胶囊，复方八维甲睾酮胶囊
+激素及有关药物->微量元素类->活性钙，盖天力
+激素及有关药物->微量元素类->碳酸钙~维生素Ｄ Calcium~Vitamin Ｄ，钙尔奇Ｄ，迪巧，凯思立 D，CALTRATE D，D~CAL
+激素及有关药物->微量元素类->碳酸钙 Calcium Carbonate，协达利
+激素及有关药物->氨基酸类->复合氨基酸 9R 注射液 Amino Acid 9R Co.，肾安注射液，肾必氨注射液
+激素及有关药物->氨基酸类->249，乐凡命，和安，Novamin
+激素及有关药物->氨基酸类->15 氨基酸注射液 15 Amino Acid Co.，肝安注射液
+激素及有关药物->氨基酸类->支链氨基酸 3H 注射液 Amino Acid 3H，肝脑清注射液
+激素及有关药物->氨基酸类->开同 Ketosteril，肾灵
+激素及有关药物->氨基酸类->谷氨酰胺 Glutamine，安凯舒
+激素及有关药物->氨基酸类->N(2)~L~Alanyl~L~Glutamine、Dipeptiven，力太，超肽，多蒙特
+激素及有关药物->肠道外营养用药->英脱利匹特 INTRALIPID （B/C），脂肪乳剂
+激素及有关药物->肠道外营养用药->水溶性维生素，水乐维它针，欣维，SOLUVIT N
+激素及有关药物->肠道外营养用药->格利福斯 GLYCOPHOS，甘油磷酸钠，Sodium Glycerophosphate
+激素及有关药物->肠道外营养用药->Medium~chain and Long~chain Triglycerides Lipid Emulsion，力能 MCT，卡路，Lipovenose MCT
+激素及有关药物->肠道外营养用药->注射用 12 种复合维生素，施尼维他(Cernevit)
+激素及有关药物->其他营养药->木糖醇 xylitol，木胶醇
+激素及有关药物->其他营养药->二磷酸果糖 Fructose 1,6~Diphosphate，佛迪，瑞安吉 ，ESAFOSFINA，FDP
+激素及有关药物->其他营养药->果糖注射液 Fructose，丰海能
+酶类及其他生物制品->酶类->玻璃酸酶 Hyaluronidase，透明质酸酶
+酶类及其他生物制品->酶类->玻璃酸钠 Sodium Hyaluronate，透明质酸钠，施沛特，爱丽，SOFAST
+酶类及其他生物制品->酶类->抑肽酶 Aprotinin（B），赫泰林，Hetailin
+酶类及其他生物制品->辅酶类->辅酶Ｑ10 Coenzyme Q10，能气朗，泛癸利酮，Ubidecarenone，NEUQUINONE
+酶类及其他生物制品->辅酶类->三磷酸腺苷 Adenosine Triphosphate，ATP
+酶类及其他生物制品->疫苗及菌苗类->重组酵母乙型肝炎疫苗，乙肝疫苗.
+酶类及其他生物制品->抗毒素、抗血清->精制破伤风抗毒素 Purified Tetanus Antitoxin，TAT
+酶类及其他生物制品->抗毒素、抗血清->人破伤风免疫球蛋白 Human Tetanus Immunoglobulin (C)，蓉生逸普
+酶类及其他生物制品->其他生物制品->结核菌素纯蛋白衍生物 Purified Protein Derivative，PPD
+酶类及其他生物制品->其他生物制品->Ａ型肉毒素 Botulinum A Toxin，肉毒素~A ，BOTA~A
+酶类及其他生物制品->其他生物制品->鼠神经生长因子 Mouse Nerve Growth Factor，金路捷，JinLuJie
+抗肿瘤药物->烷化剂->苯丙氨酸氮芥 L~Phenylalanine Mustard (D)，美法仑，爱克兰，Melphalan，Alkeran
+抗肿瘤药物->烷化剂->环磷酰胺 Cyclophosphamide (D)，环磷氮芥，ENDOxAN，CTx
+抗肿瘤药物->烷化剂->异环磷酰胺 Ifosfamide (D)，匹服平，Isofamide，Iphosphamide
+抗肿瘤药物->烷化剂->甲环亚硝脲 MeCCNU，司莫司丁，Semustine
+抗肿瘤药物->烷化剂->尼莫司汀 NIMUSTINE，丁禾青
+抗肿瘤药物->抗代谢药->甲氨蝶呤 Methotrexate (x)，氨甲蝶呤，美素生，MTx
+抗肿瘤药物->抗代谢药->氟脲嘧啶 Fluorouracil (D)，5~氟脲嘧啶，5~FU
+抗肿瘤药物->抗代谢药->替加氟 Tegafur，喃氟啶，呋氟尿嘧啶，Futraful，FT~207
+抗肿瘤药物->抗代谢药->阿糖胞苷 Cytarabine (D)，Cytosine Arabinoside，Ara~C，CYTOSAR，赛得萨
+抗肿瘤药物->抗代谢药->吉西他滨 Gemcitabine，双氟脱氧胞苷，健择，泽菲，GEMZAR
+抗肿瘤药物->抗代谢药->卡培他滨片 Capecitabine Tablets（D），希罗达
+抗肿瘤药物->抗代谢药->羟基脲 Hydroxycarbamide，hydroxyurea
+抗肿瘤药物->抗代谢药->脱氧氟尿苷 Doxifluridine，氟铁龙，FURTULON
+抗肿瘤药物->抗代谢药->六甲蜜胺 Altretamine (D)，舒佐
+抗肿瘤药物->抗肿瘤抗生素->放线菌素Ｄ Dactinomycin (C)，更生霉素，Actinomycin D，ACTD
+抗肿瘤药物->抗肿瘤抗生素->丝裂霉素 Mitomycin，自力霉素，Mytomycin，MMC
+抗肿瘤药物->抗肿瘤抗生素->博莱霉素 Bleomycin (D)，BLEOCIN
+抗肿瘤药物->抗肿瘤抗生素->平阳霉素 Pingyangmycin，Bleomycin A5，PYM
+抗肿瘤药物->抗肿瘤抗生素->柔红霉素 Daunorubicin (D)，正定霉素，DNR
+抗肿瘤药物->抗肿瘤抗生素->多柔比星 Doxorubicin (D)，阿霉素，Adriamycin，ADM，ADRIBLASTIN，DOx，【 医保】 甲
+抗肿瘤药物->抗肿瘤抗生素->表柔比星 Epirubicin (D)，表阿霉素，PHARMORUBICIN，EPI
+抗肿瘤药物->抗肿瘤抗生素->吡柔比星 Pirarubicin，吡喃阿霉素，THP~ADM，THP
+抗肿瘤药物->抗肿瘤抗生素->米托蒽醌 Mitoxantrone （D），米西宁
+抗肿瘤药物->抗肿瘤激素->他莫昔芬 Tamoxifen (D)，特茉芬，三苯氧胺，TAMOFEN，TAM
+抗肿瘤药物->抗肿瘤激素->来曲唑 Letrozole，芙瑞，弗隆（薄膜衣片）
+抗肿瘤药物->抗肿瘤激素->甲地孕酮 Megestrol，梅格施，美可治，宜利治，MEGACE
+抗肿瘤药物->抗肿瘤激素->福他胺 Flutamide，福至尔（原名：缓退瘤），FUGEREL
+抗肿瘤药物->抗肿瘤激素->阿那曲唑 Anastrozole，瑞宁得
+抗肿瘤药物->抗肿瘤激素->比卡鲁胺片 Bicalutamide，康士得，Casodex
+抗肿瘤药物->抗肿瘤植物成分->长春新碱 Vincristine (D)，醛基长春碱，VCR
+抗肿瘤药物->抗肿瘤植物成分->长春瑞滨 Vinorelbine (D)，异长春花碱，诺维本，盖诺，NAVELBINE，NVB
+抗肿瘤药物->抗肿瘤植物成分->长春地辛 Vindesine，长春花碱酰胺，西艾克，托马克，VDS
+抗肿瘤药物->抗肿瘤植物成分->羟基喜树碱 Hydroxycamptothecine，喜得欣，HCPT，OPT，HYDROxYL
+抗肿瘤药物->抗肿瘤植物成分->紫杉醇 Paclitaxel (D)，安素泰，力扑素，紫素，泰素，TAxOL
+抗肿瘤药物->抗肿瘤植物成分->多西他赛 Docetaxel，艾素
+抗肿瘤药物->抗肿瘤植物成分->依托泊甙 Etoposide (D)，足叶乙甙，鬼臼乙叉甙，VEPESID，VP~16
+抗肿瘤药物->抗肿瘤植物成分->鸦胆子油，艾亭
+抗肿瘤药物->其他抗肿瘤药->达卡巴嗪 Dacarbazine，氮烯咪胺，DTIC
+抗肿瘤药物->其他抗肿瘤药->280，顺氯氨铂，DDP
+抗肿瘤药物->其他抗肿瘤药->卡铂 Carboplatin (D)，碳铂，伯尔定，波贝，PARAPLATIN
+抗肿瘤药物->其他抗肿瘤药->奥沙利铂 Oxaliplatin，乐沙定，艾恒，奥铂，，ELOxATIN
+抗肿瘤药物->其他抗肿瘤药->去甲斑蝥素 Norcantharidin，利佳片
+抗肿瘤药物->其他抗肿瘤药->α~甘露聚糖肽 Mannatide，多抗甲素
+抗肿瘤药物->其他抗肿瘤药->乌苯美司 Ubenimex，百士欣
+抗肿瘤药物->其他抗肿瘤药->氨磷汀 Amifostine，阿米福汀
+抗肿瘤药物->其他抗肿瘤药->奈达铂 Nedaplatin，捷佰舒
+抗肿瘤药物->其他抗肿瘤药->Recombinant Mutant Human Tumor Necrosis factor，纳科思
+影响免疫功能的药物->生物反应调节剂->左旋咪唑 Levamisole，左咪唑
+影响免疫功能的药物->生物反应调节剂->α~2a 干扰素 Recombinant Interferon α~2a（C），福康泰，罗荛愫，ROFERON~A
+影响免疫功能的药物->生物反应调节剂->重组人干扰素 α~2b Recominant Human Interferon α~2b （C），安福隆，安达芬，捷抚，JAFERON
+影响免疫功能的药物->生物反应调节剂->干扰素~γ Recominant Interferon γ（C），克隆伽玛，CLONGAMMA
+影响免疫功能的药物->生物反应调节剂->转移因子 Transfer Factor，TF
+影响免疫功能的药物->生物反应调节剂->胸腺肽 α1 Thymosin Alpha 1，日达仙，迈普新，ZADAxIN，MAIPUxIN
+影响免疫功能的药物->生物反应调节剂->草分枝杆菌 F.U.36 Mycobacterium Phlei F.U.36，乌体林斯，Utilin"S"
+影响免疫功能的药物->生物反应调节剂->人免疫球蛋白 Immune Globulin，博欣，静注丙球，BOxIN
+影响免疫功能的药物->生物反应调节剂->重组人白介素~11 Recombinant Human Interleukin~11，巨和粒，吉巨芬，RhIL~11
+影响免疫功能的药物->生物反应调节剂->香菇多糖 Lentinan，天地欣，TIANDIxIN
+影响免疫功能的药物->生物反应调节剂->卡介苗素 Extra Bacillus Calmette Guerin，卡介菌多糖、核酸
+影响免疫功能的药物->生物反应调节剂->脾氨肽，复可托，FUKETUO
+影响免疫功能的药物->免疫抑制剂->环孢素 Ciclosporin，环孢霉素Ａ，新山地明，新赛斯平
+影响免疫功能的药物->免疫抑制剂->硫唑嘌呤 Azathioprine （D），依木兰，IMURAN
+影响免疫功能的药物->免疫抑制剂->霉酚酸酯 Mycophenolate Mofetil (C)，骁悉，吗替麦考酚酯，CELLCEPT
+影响免疫功能的药物->免疫抑制剂->294，爱若华
+影响免疫功能的药物->免疫抑制剂->他克莫司 Tacrolimus，普乐可复，PROGRAF，FK506
+影响免疫功能的药物->免疫抑制剂->雷公藤多苷 Tripterygium Glycosides，雷公藤总苷
+麻醉药及肌松药->吸入全麻药->异氟醚 Isoflurane，异氟烷，活宁，FORANE
+麻醉药及肌松药->吸入全麻药->地氟醚 Desflurane，优宁，SUPRANE
+麻醉药及肌松药->吸入全麻药->七氟烷 Sevoflurane，凯特力
+麻醉药及肌松药->静脉全麻药->硫喷妥钠 Thiopentone Sodium，戊硫巴比妥钠
+麻醉药及肌松药->静脉全麻药->氯胺酮 Ketamine (B)，凯他敏
+麻醉药及肌松药->静脉全麻药->299，得普利麻， DIPRIVAN
+麻醉药及肌松药->局部麻醉药->普鲁卡因 Procaine (B)，奴佛卡因，Novocaine
+麻醉药及肌松药->局部麻醉药->利多卡因 Lidocaine (B)，赛罗卡因，xylocaine
+麻醉药及肌松药->局部麻醉药->复方盐酸利多卡因 Compound Lidocaine Hydrochloride，克泽普针
+麻醉药及肌松药->局部麻醉药->布比卡因 Bupivacaine，丁吡卡因
+麻醉药及肌松药->局部麻醉药->丁卡因 Tetracaine，地卡因，潘托卡因，Dicaine，Pantocaine
+麻醉药及肌松药->局部麻醉药->罗哌卡因 Ropivacaine，耐乐品，NAROPIN
+麻醉药及肌松药->肌松药->琥珀胆碱 Succinylcholine (C)，司可林，琥胆，Scoline
+麻醉药及肌松药->肌松药->303，仙林，万可松，维库罗宁，NORCURON
+麻醉药及肌松药->肌松药->罗库溴铵 Rocuronium Bromide，爱可松，ESMERON
+麻醉药及肌松药->肌松药->巴氯芬 Baclofen (C)，力奥来素，氯苯氨丁酸，枢芬，LIORESAL
+麻醉药及肌松药->肌松药->乙哌立松 Eperisone，妙纳，宜宇，乙苯哌丙酮，MYONAL
+麻醉药及肌松药->肌松药->替扎尼定 Tizanidine，凯莱通
+麻醉药及肌松药->肌松药->造影及诊断用药
+麻醉药及肌松药->肌松药->碘化油 Iodized Oil，Lipiodol
+麻醉药及肌松药->肌松药->碘海醇 Iohexol，欧乃派克，双北，OMNIPAQUE
+麻醉药及肌松药->肌松药->碘帕醇 Iopamidol，碘必乐，IOPAMIRO
+麻醉药及肌松药->肌松药->钆喷酸葡胺 Meglumine Godopentetate （C），磁显葡胺
+麻醉药及肌松药->肌松药->碘普罗胺 Iopromide，优维显，ULTRAVIST300
+麻醉药及肌松药->肌松药->六氟化硫微泡 Sulphur Hexafluoride Microbubbles，声诺维
+麻醉药及肌松药->肌松药->枸橼酸铁胺泡腾颗粒 Ferric Ammonium Citrate Effervesscent Gr，复锐明
+麻醉药及肌松药->肌松药->解毒药物
+麻醉药及肌松药->肌松药->青霉胺 Penicillamine (D)，D~盐酸青霉胺
+麻醉药及肌松药->肌松药->硫代硫酸钠 Sodium Thiosulfate，大苏打
+麻醉药及肌松药->肌松药->亚甲兰 Methylene Blue，美兰
+麻醉药及肌松药->肌松药->311，金尔伦，苏诺
+麻醉药及肌松药->肌松药->美司那 Mesna 【医保】 乙，2~巯基乙磺酸钠，美安，Sodium 2~ Mercaptoethane Sulfonate
+麻醉药及肌松药->肌松药->氟吗西尼 Flumazenil，氟吗泽尼
+各临床专科用药->外科用药->外用消毒防腐药->乙醇 Alcohol (D)，酒精，Ethyl Alcohol
+各临床专科用药->外科用药->外用消毒防腐药->呋喃西林 Furacilin，Nitrofurazone
+各临床专科用药->外科用药->外用消毒防腐药->高锰酸钾 Potassium Permanganate，P.P.
+各临床专科用药->外科用药->外用消毒防腐药->过氧化氢 Hydrogen Peroxide，双氧水
+各临床专科用药->外科用药->外用消毒防腐药->过氧乙酸 Peroxyacetic Acid，过氧醋酸，Peracetic Acid，PAA
+各临床专科用药->外科用药->外用消毒防腐药->聚乙烯吡咯烷酮碘 Povidone Iodine，聚乙烯酮碘，聚维酮碘，PVP Iodine，PVP~I
+各临床专科用药->外科用药->痔疮用药->强力脉痔灵 AESCUVEN Forte，迈之灵，七叶树皂角
+各临床专科用药->外科用药->痔疮用药->爱脉朗 ALVENOR
+各临床专科用药->外科用药->痔疮用药->洗必泰痔疮栓 Supp. Hibitane for Haemorrhoid，氯己定痔疮栓
+各临床专科用药->外科用药->痔疮用药->复方角菜酸酯栓，太宁栓，Titanoreine Suppositories
+各临床专科用药->外科用药->痔疮用药->鞣酸达克罗宁软膏 （医院制剂），复方鞣酸
+各临床专科用药->外科用药->痔疮用药->复方达克罗宁雷佛奴尔软膏 （医院制剂），DRZ 软膏
+各临床专科用药->外科用药->痔疮用药->复方鱼石脂栓（医院制剂），IBB 栓
+各临床专科用药->外科用药->创伤用药->External GeneTime，金因肽
+各临床专科用药->外科用药->创伤用药->湿润烧伤膏 MEBO，美宝湿润烧伤膏
+各临床专科用药->外科用药->创伤用药->积雪甙霜 Centellae Triterpeni Cream，肤康霜
+各临床专科用药->外科用药->创伤用药->维生素Ｂ12 溶液 Cyanocobalamin Liquor (A/C)，氰钴胺溶液，贯新克，WISK
+各临床专科用药->外科用药->其他外科用药->双氯芬酸 Diclofenac （B/D），本品的二乙胺盐乳胶剂称扶他林，钠盐乳膏称达康芬，VOTALIN
+各临床专科用药->外科用药->其他外科用药->酮洛芬凝胶 Ketoprofen Gel （B/D），法斯通凝胶，FASTUM Gel
+各临床专科用药->外科用药->其他外科用药->软皂 Soft Soap（医院制剂），灭菌肥皂水
+各临床专科用药->眼科用药->抗感染药->磺胺醋酰钠滴眼液 Sodium Sulfacetamide Eye Drops，斑马眼药水
+各临床专科用药->眼科用药->抗感染药->氯霉素滴眼液 Chloramphenicol Eye Drops，润舒滴眼液
+各临床专科用药->眼科用药->抗感染药->妥布霉素滴眼液 Tobramycin Ophthalmic Solution/Ointment，托百士，TOBREx
+各临床专科用药->眼科用药->抗感染药->氧氟沙星滴眼液／眼膏 Ofloxacin Ophthalmic Solution，泰利必妥滴眼液／眼膏，迪可罗眼膏，TARIVID
+各临床专科用药->眼科用药->抗感染药->诺氟沙星滴眼液 Norfloxacin Eye Drops (C)，氟哌酸滴眼液，FPA 眼水
+各临床专科用药->眼科用药->抗炎药->氟甲松龙滴眼液 Fluorometholone ophthalmic suspension，氟美瞳，FLUMETHOLON
+各临床专科用药->眼科用药->抗青光眼及缩瞳药->卡替洛尔滴眼液 Carteolol Eye Drops (C)，美开朗，MIKELAN
+各临床专科用药->眼科用药->抗青光眼及缩瞳药->噻吗洛尔滴眼液 Timolol Eye Drops (C)，噻吗心安滴眼液
+各临床专科用药->眼科用药->抗青光眼及缩瞳药->毛果芸香碱滴眼液 Pilocarpine Eye Drops (C)，真瑞，匹鲁卡品滴眼液
+各临床专科用药->眼科用药->抗青光眼及缩瞳药->卡米可林注射液 Carbamylcholine，卡巴胆碱，Carbachol
+各临床专科用药->眼科用药->散瞳药和睫状肌麻醉药->复方托吡卡胺滴眼液 Tropicamide & Phenylephrine opthalmic solution，美多丽，MYDRIN~P
+各临床专科用药->眼科用药->治疗白内障药->【医保】 乙，卡他灵，白 内停，眼 用混悬液称卡林~U，CATALIN，B ERNETIN，
+各临床专科用药->眼科用药->其他眼科用药->Carboxymethylcellulose Sodium Lubricant Eye Drops，潇莱威，CELLUVISC
+各临床专科用药->眼科用药->其他眼科用药->透明质酸钠 Sodium Hyaluronate，爱丽，Hialid
+各临床专科用药->耳、鼻、喉科及口腔科用药->滴耳剂->氧氟沙星滴耳液 Ofloxacin Otic Solution （C），泰利必妥滴耳液
+各临床专科用药->耳、鼻、喉科及口腔科用药->滴鼻剂和鼻喷剂->麻黄碱滴鼻液 Ephedrine Nasal Drops （C），麻黄素滴鼻剂
+各临床专科用药->耳、鼻、喉科及口腔科用药->滴鼻剂和鼻喷剂->麻黄碱呋喃西林滴鼻剂 Ephedrine & Furacilin Nasal Drops，呋麻滴鼻剂
+各临床专科用药->耳、鼻、喉科及口腔科用药->滴鼻剂和鼻喷剂->丙酸倍氯米松鼻喷剂 Beclomethasone Dipropionate Nasal Spray （C），伯克纳，Beconase
+各临床专科用药->耳、鼻、喉科及口腔科用药->滴鼻剂和鼻喷剂->糠酸莫米松 Mometasone Furoate （C），内舒拿，Nasonex
+各临床专科用药->耳、鼻、喉科及口腔科用药->滴鼻剂和鼻喷剂->布地奈德鼻喷剂 Budesonide nasal spray（C/B），雷诺考特，Rhinocort
+各临床专科用药->耳、鼻、喉科及口腔科用药->滴鼻剂和鼻喷剂->盐酸羟甲唑啉喷雾剂 Oxymetazoline Hydrochloride Spray，达芬霖，Aphnlin
+各临床专科用药->耳、鼻、喉科及口腔科用药->口腔用药->复方硼砂溶液 Sodium Borate Co. Solution（医院制剂），朵贝氏溶液，Dobell's Solution
+各临床专科用药->耳、鼻、喉科及口腔科用药->口腔用药->西吡氯铵漱口液 Cetylpyridinium Chloride Gargle，爱诺天健
+各临床专科用药->耳、鼻、喉科及口腔科用药->口腔用药->环戊硫酮片 Anethol Trithlone Tablets，正瑞
+各临床专科用药->皮肤科用药->抗细菌药->莫匹罗星软膏 Mupirocin Ointment （B），百多邦，Bactroban
+各临床专科用药->皮肤科用药->抗真菌药->酮康唑洗剂 Ketoconazole Lotion (C)，采乐洗剂，TRIATOP Lotion
+各临床专科用药->皮肤科用药->抗真菌药->硝酸咪康唑霜／散 Miconazole Nitrate Cream/Powder (C)，达克宁，DAKTARIN
+各临床专科用药->皮肤科用药->抗真菌药->联苯苄唑霜 Bifonazole Cream，美克乳膏
+各临床专科用药->皮肤科用药->抗真菌药->盐酸特比萘芬霜 Terbinafin Hydrochloride Cream (B)，丁克软膏，兰美抒，LAMISIL
+各临床专科用药->皮肤科用药->抗真菌药->盐酸布替萘芬乳膏 Butenafine Hydrochloride Cream (B)，迈可抒
+各临床专科用药->皮肤科用药->抗病毒及寄生虫药->疥灵霜 Lindane Cream （C），疥得治乳膏，r~六六六乳膏，林旦乳膏
+各临床专科用药->皮肤科用药->抗病毒及寄生虫药->喷昔洛韦乳膏 Penciclovir Cream (B)，丽珠君乐
+各临床专科用药->皮肤科用药->皮质激素类药->哈西奈德溶液 Halcinonide Solution (C)，乐肤液
+各临床专科用药->皮肤科用药->皮质激素类药->醋酸氟轻松霜 Fluocinolone Acetonide Acetate Cream (C)，醋酸肤轻松霜，氟西奈德霜，Fluocinonide Cream，【 医保】 甲
+各临床专科用药->皮肤科用药->皮质激素类药->复方曲安奈德霜 Triamcinolone Acetonide Co. Cream (C)，复方曲安缩松霜，复方康纳乐霜，KENACOMB Cream，【 医保】
+各临床专科用药->皮肤科用药->皮质激素类药->糠酸莫米松乳膏 Mometasone Furoate Creamn (C)，艾洛松，ELOSON
+各临床专科用药->皮肤科用药->皮质激素类药->Triamcinolone Acetonide Acetate~Urea Ointement (C)，曲安缩松／尿素软膏
+各临床专科用药->皮肤科用药->皮质激素类药->丙酸氟替卡松乳膏 Fluticasone Propionate Cream，克廷肤，Cutivate
+各临床专科用药->皮肤科用药->抗痤疮药->维胺酯 Viaminati，VAEA
+各临床专科用药->皮肤科用药->抗痤疮药->红霉素~过氧化苯甲酰凝胶 Erythromycin~Benzoyl Peroxide Topical Gel，必麦森，BENZAMYCIN
+各临床专科用药->皮肤科用药->抗痤疮药->阿达帕林凝胶 Adapalene Gel （C），达芙文，DIFFERIN
+各临床专科用药->皮肤科用药->抗痤疮药->维Ａ酸霜 Vitamin A Acid Cream （C），维特明，维甲酸霜，邦力迪维霜，TRETINOIN，【 医保】 甲
+各临床专科用药->皮肤科用药->其他皮肤病用药->甲氧补骨脂素 Methoxypsoralen （C/D），8~甲氧基补骨脂素，8~MOP
+各临床专科用药->皮肤科用药->其他皮肤病用药->钙泊三醇软膏 Calcipotriol Ointment，达力士，DAIVONEx
+各临床专科用药->皮肤科用药->其他皮肤病用药->煤焦油洗剂 Coal Tar Lotion，泽它洗剂，ZETAR
+各临床专科用药->皮肤科用药->其他皮肤病用药->二硫化硒洗剂 Selenium Sulfide Lotion （C），希尔生
+各临床专科用药->皮肤科用药->其他皮肤病用药->冰醋酸 Glacial Acetic Acid，冰乙酸
+各临床专科用药->妇科用药->抗感染类->环丙沙星栓 Supp. Ciprofloxacin，曼舒林
+各临床专科用药->妇科用药->抗感染类->替硝唑阴道泡腾片，比适
+各临床专科用药->妇科用药->抗感染类->Terbinafine Hydrochloride Vaginal Effervescent Tablets，丁克
+各临床专科用药->妇科用药->抗感染类->咪康唑栓 Supp. Miconazole，达克宁栓
+各临床专科用药->妇科用药->抗感染类->克霉唑阴道片 Clotrimazole Vaginal Tablet (B?C)，凯妮汀
+各临床专科用药->妇科用药->抗感染类->聚维酮碘凝胶 Povidone~Iodine Gel （D），黛卫凝胶，DAVEE Gel
+各临床专科用药->妇科用药->抗感染类->重组人干扰素 α~2a 栓，淑润阴道栓
+各临床专科用药->妇科用药->抗感染类->聚甲酚磺醛 Policresulen，爱宝疗，ALBOTHYL
+各临床专科用药->妇科用药->抗感染类->氯喹那多~普罗雌烯，可宝净，COLPOSEPTINE
+各临床专科用药->妇科用药->抗感染类->硝呋太尔阴道片 NIFURATEL VAGINAL TABLETS，麦咪诺 MACMIROR VAGINAL TABLETS
+各临床专科用药->妇科用药->抗感染类->Recombinant Human Interferon α2b for Suppository，安达芬栓
+各临床专科用药->妇科用药->抗感染类->Metronidazole,Clotrimazole and chlorhexidine Acetate Ointment，山庆
+各临床专科用药->妇科用药->激素类->结盒型雌激素阴道软膏 Conjugated Estrogens Vaginal Cream，倍美力阴道软膏，Premarin Vaginal Cream
+各临床专科用药->牙科用药->盐酸米诺环素软膏 Minocycline Hydrochloride Ointment，派丽奥，PERIOCLINE
+中成药->呼吸系统用药->痰咳净
+中成药->呼吸系统用药->百合固金
+中成药->呼吸系统用药->小柴胡冲剂
+中成药->呼吸系统用药->双黄连口服液
+中成药->呼吸系统用药->芙朴感冒颗粒
+中成药->呼吸系统用药->抗病毒颗粒
+中成药->呼吸系统用药->抗病毒口服液
+中成药->呼吸系统用药->鼻渊舒口服液
+中成药->呼吸系统用药->鱼腥草注射液
+中成药->呼吸系统用药->板蓝根冲剂
+中成药->呼吸系统用药->清热灵冲剂
+中成药->呼吸系统用药->牛黄解毒片
+中成药->呼吸系统用药->黄连上清丸
+中成药->呼吸系统用药->350
+中成药->呼吸系统用药->正柴胡饮颗粒
+中成药->呼吸系统用药->乐频清珍黄丸
+中成药->呼吸系统用药->天一止咳糖浆
+中成药->呼吸系统用药->强力枇杷露
+中成药->呼吸系统用药->痰热清注射液
+中成药->呼吸系统用药->清开灵软胶囊
+中成药->消化系统用药->气滞胃痛颗粒
+中成药->消化系统用药->胃苏颗粒
+中成药->消化系统用药->香砂六君丸
+中成药->消化系统用药->保济丸
+中成药->消化系统用药->元胡止痛软胶囊
+中成药->消化系统用药->胃复春片
+中成药->消化系统用药->养胃颗粒
+中成药->消化系统用药->三九胃泰颗粒剂（无糖型）
+中成药->消化系统用药->苁蓉通便口服液
+中成药->消化系统用药->麻仁丸
+中成药->消化系统用药->克痢痧胶囊
+中成药->消化系统用药->护肝片
+中成药->消化系统用药->消炎利胆胶囊
+中成药->消化系统用药->355
+中成药->消化系统用药->胆益宁片
+中成药->消化系统用药->护肝宁片
+中成药->消化系统用药->肠泰合剂
+中成药->消化系统用药->胆石利通片
+中成药->心、脑血管系统用药->银杏叶片/口服液/胶囊，天保宁片，银杏天宝，达纳康， Taponin
+中成药->心、脑血管系统用药->银杏叶提取物注射液
+中成药->心、脑血管系统用药->地奥心血康胶囊
+中成药->心、脑血管系统用药->可立宁心脑健
+中成药->心、脑血管系统用药->稳心颗粒
+中成药->心、脑血管系统用药->参麦注射液
+中成药->心、脑血管系统用药->复方丹参片／滴丸
+中成药->心、脑血管系统用药->冠心丹参滴丸
+中成药->心、脑血管系统用药->香丹注射液
+中成药->心、脑血管系统用药->参附注射液
+中成药->心、脑血管系统用药->速效救心丸
+中成药->心、脑血管系统用药->黄芪生脉饮
+中成药->心、脑血管系统用药->醒脑静注射液
+中成药->心、脑血管系统用药->天舒胶囊
+中成药->心、脑血管系统用药->脑安胶囊
+中成药->心、脑血管系统用药->【医保】 乙
+中成药->心、脑血管系统用药->血栓通注射液
+中成药->心、脑血管系统用药->黄杨宁片，环维黄杨星 D（ Cyclovirobu×ine~D ）
+中成药->心、脑血管系统用药->生脉胶囊
+中成药->心、脑血管系统用药->362，络泰，欣瑙泰
+中成药->心、脑血管系统用药->银杏达莫注射液 Ginkgo Leaf Extract and Dipyridamolum，杏丁，亿新威
+中成药->神经系统用药->七叶神安片
+中成药->神经系统用药->养血安神糖浆
+中成药->神经系统用药->甜梦胶囊
+中成药->神经系统用药->消疲灵颗粒
+中成药->神经系统用药->活力苏口服液
+中成药->神经系统用药->二十五味珊瑚丸
+中成药->血液系统用药->血康口服液
+中成药->血液系统用药->益血生胶囊
+中成药->血液系统用药->复方皂矾丸
+中成药->血液系统用药->螺旋藻胶囊
+中成药->泌尿系统用药->六味地黄丸
+中成药->泌尿系统用药->肾衰宁胶囊
+中成药->泌尿系统用药->强肾片
+中成药->泌尿系统用药->热淋清颗粒
+中成药->泌尿系统用药->癃清片
+中成药->泌尿系统用药->前列回春胶囊
+中成药->泌尿系统用药->前列舒丸
+中成药->泌尿系统用药->复方金钱草冲剂
+中成药->泌尿系统用药->排石颗粒
+中成药->泌尿系统用药->尿路通片
+中成药->泌尿系统用药->前列安栓 Prostant
+中成药->泌尿系统用药->肾炎消肿片
+中成药->泌尿系统用药->泌淋胶囊
+中成药->泌尿系统用药->黄葵胶囊
+中成药->泌尿系统用药->海昆肾喜胶囊
+中成药->肿瘤科及免疫调节用药->安替可胶囊
+中成药->肿瘤科及免疫调节用药->百令胶囊
+中成药->肿瘤科及免疫调节用药->贞芪扶正颗粒/胶囊
+中成药->肿瘤科及免疫调节用药->参芪扶正注射液
+中成药->肿瘤科及免疫调节用药->平消片
+中成药->肿瘤科及免疫调节用药->薄芝片
+中成药->肿瘤科及免疫调节用药->复方斑蝥胶囊
+中成药->内分泌系统用药->玉泉丸
+中成药->内分泌系统用药->金芪降糖片
+中成药->内分泌系统用药->康艾注射液
+中成药->外科及骨伤科用药->血塞通片
+中成药->外科及骨伤科用药->373
+中成药->外科及骨伤科用药->伤科接骨片
+中成药->外科及骨伤科用药->丹郁骨康丸
+中成药->外科及骨伤科用药->治伤胶囊
+中成药->外科及骨伤科用药->颈复康冲剂
+中成药->外科及骨伤科用药->天麻杜仲胶囊
+中成药->外科及骨伤科用药->益肾蠲痹丸
+中成药->外科及骨伤科用药->鹿瓜多肽 Cervus and Cucumis Polypeptide，松梅乐注射液
+中成药->外科及骨伤科用药->帕歌斯 PAGOSID
+中成药->外科及骨伤科用药->麝香镇痛膏
+中成药->外科及骨伤科用药->天和骨通贴膏
+中成药->外科及骨伤科用药->伤痛一喷灵
+中成药->外科及骨伤科用药->马应龙痔疮膏
+中成药->外科及骨伤科用药->附桂骨痛胶囊
+中成药->外科及骨伤科用药->恒古骨伤愈合剂，速效骨伤愈合剂
+中成药->外科及骨伤科用药->通滞苏润江胶囊
+中成药->外科及骨伤科用药->白芍总苷胶囊 Total Glucosides of Paeony Capsules，帕夫林
+中成药->外科及骨伤科用药->消脱止—M，草木犀流浸液片
+中成药->妇产科用药->阿归养血糖浆
+中成药->妇产科用药->妇宁颗粒
+中成药->妇产科用药->妇乐冲剂
+中成药->妇产科用药->黑归脾丸
+中成药->妇产科用药->产复康颗粒剂
+中成药->妇产科用药->宫血宁胶囊
+中成药->妇产科用药->益母草冲剂
+中成药->妇产科用药->鲜益母草胶囊
+中成药->妇产科用药->桂枝茯苓胶囊
+中成药->妇产科用药->逍遥丸
+中成药->妇产科用药->保妇康泡沫剂
+中成药->妇产科用药->康妇消炎栓
+中成药->妇产科用药->乳癖消
+中成药->妇产科用药->乳康片
+中成药->妇产科用药->乌鸡白凤丸
+中成药->儿科用药->婴儿健脾散
+中成药->儿科用药->龙牡壮骨颗粒
+中成药->皮肤科用药->白癜风胶囊
+中成药->皮肤科用药->养血生发胶囊
+中成药->皮肤科用药->日舒安洗剂
+中成药->皮肤科用药->皮肤康洗液
+中成药->皮肤科用药->郁金银屑片
+中成药->皮肤科用药->银屑冲剂
+中成药->皮肤科用药->甘霖洗剂（芬舒特）
+中成药->皮肤科用药->阿维 A 胶囊 Acitretin Capsules，方希
+中成药->皮肤科用药->他扎罗汀凝胶 Tazarotene Gel，炔维
+中成药->眼科、五官科及口腔科用药->杞菊地黄口服液
+中成药->眼科、五官科及口腔科用药->西瓜霜喷剂
+中成药->眼科、五官科及口腔科用药->金果饮口服液
+中成药->眼科、五官科及口腔科用药->复方草珊瑚含片
+中成药->眼科、五官科及口腔科用药->金嗓散结丸
+中成药->眼科、五官科及口腔科用药->金嗓利咽丸
+中成药->眼科、五官科及口腔科用药->金嗓开音丸
+中成药->眼科、五官科及口腔科用药->金嗓清音丸
+中成药->眼科、五官科及口腔科用药->锡类散
+中成药->眼科、五官科及口腔科用药->耳聋佐慈丸
+中成药->眼科、五官科及口腔科用药->鼻炎片
+中成药->眼科、五官科及口腔科用药->鼻康片
+中成药->眼科、五官科及口腔科用药->鼻咽清毒颗粒
+中成药->眼科、五官科及口腔科用药->鼻窦炎口服液
+中成药->眼科、五官科及口腔科用药->鼻渊舒口服液（无糖型）
+中成药->眼科、五官科及口腔科用药->霍胆丸
